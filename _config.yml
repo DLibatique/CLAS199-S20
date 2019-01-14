@@ -13,8 +13,8 @@ tagline:          'Gender and Sexuality in the Ancient World'
 course_number:    'CLAS 199 01'
 semester:         'Spring 2019'
 location:         'College of the Holy Cross'
-url:              http://dlibatique.github.io/CLAS199
-baseurl:          /
+url:              https://dlibatique.github.io/CLAS199
+baseurl:          https://dlibatique.github.io/CLAS199
 
 author:
   name:           'Daniel Libatique'
