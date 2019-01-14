@@ -14,7 +14,7 @@ course_number:    'CLAS 199 01'
 semester:         'Spring 2019'
 location:         'College of the Holy Cross'
 url:              https://dlibatique.github.io/CLAS199-test
-baseurl:          /CLAS199-test/
+baseurl:          /CLAS199-test
 
 author:
   name:           'Daniel Libatique'
