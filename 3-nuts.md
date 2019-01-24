@@ -5,7 +5,7 @@ title: Nuts & Bolts
 
 <a name="top"></a>
 <a href="#ac" class="underline">Academic Conduct</a> \| <a href="#oh" class="underline">Office Hours</a> \| <a href="#gender" class="underline">Gender Expression and Identity</a> \|  
-<a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="#disability" class="underline">Disability</a>
+<a href="#diversity" class="underline">Diversity, Inclusion, and Respect</a> \| <a href="cw" class="underline">Content Warnings</a> \| <a href="#disability" class="underline">Disability</a>
 <hr>
 ## <a name="ac">Academic Conduct</a>
 You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/node/1381/#AHP). Cheating on quizzes or exams or plagiarism on any of the written assignments (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, copying another student’s answers, or copying another writer’s ideas without proper citation or attribution) may result in penalties ranging from a failure on the specific assignment, quiz, or exam to failure for the entire course.
@@ -20,7 +20,7 @@ Office hours are an opportunity for you to meet with me outside of class to disc
 <hr>
 
 ## <a name="gender">Gender Expression and Identity</a>
-I (Prof. Libatique) identify as a cisgender man and use he/him/his pronouns. You will spend a portion of the first class meeting on 1/23 filling out a small notecard to let me know what your preferred name is, what pronouns you use, and what you hope to learn from this class. My goal is to avoid dead-naming, as your preferred name may not match the legal name on my class roster.
+I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. You will spend a portion of the first class meeting on 1/23 filling out a small notecard to let me know what your preferred name is, what pronouns you use, and what you hope to learn from this class. My goal is to avoid dead-naming, as your preferred name may not match the legal name on my class roster.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -29,6 +29,14 @@ I (Prof. Libatique) identify as a cisgender man and use he/him/his pronouns. You
 The nature of the class’ topic (gender and sexuality in the ancient world) will often require us to have difficult conversations with conflicting viewpoints. Our classroom is designated as a space where respectful dialogue must be the norm: *ad hominem* attacks, unsubstantiated generalizations, and discriminatory remarks of any kind will not be tolerated. All students are welcome in this class and at Holy Cross, no matter how they identify their race, ethnicity, gender identity and expression, sexual orientation, religious or spiritual tradition, or socioeconomic background. If there is disagreement, we will work with the ideas being discussed; no personal attacks will be allowed.
 
 We will also engage in discussions about the practices and norms of cultures that in many respects differ from our own, practices that may perhaps strike modern sensibilities as objectionable or crude. One of the major themes with which we will engage this semester is how our understanding of what is acceptable or unacceptable is largely constructed by cultural context. We must engage with the evidence of ancient texts and material culture in terms of the cultures in which they were created, without making value judgments according to our modern sensibilities; or, at the very least, we must interrogate why and how we are making those value judgments.
+
+<a href="#top" class="underline">Back to top.</a>
+<hr>
+
+## <a name="cw">Content Warnings</a>
+At times this semester we will be discussing literature, material culture, and topics that may be disturbing, even traumatizing, to some students. Some topics that will come up often include rape, sexual violence, and modern notions of pedophilia. If you suspect that specific material is likely to be emotionally challenging for you, I'd be happy to discuss any concerns that you may have before the subject comes up in class either via e-mail or in person (in office hours or through an appointment). I will do my best to place content warnings on readings in the course schedule whose titles may not necessarily indicate the presence of traumatizing material.
+
+If you ever wish to discuss your personal reactions to course material with the class or with me individually afterward, I welcome such discussions as an appropriate part of our course. If you ever feel the need to step outside during a class discussion, you may always do so without academic penalty, but you will be responsible for any missed material. If you leave the room for a significant amount of time, please make arrangements to get notes from another student or to see me individually to discuss the situation.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>

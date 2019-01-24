@@ -68,11 +68,11 @@ The following is a rubric for semester-end grades in the course.
     </tbody>
 </table>
 
-To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences, and you must complete 10 responses to secondary readings, 1 creative project, 4 quizzes, a mid-semester essay or exam, and a final essay or exam. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
+To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences, and you must complete 10 responses to secondary readings, 2 creative projects, 4 quizzes, and a final essay or exam. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
 
 Once you have reached a certain grade level, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria for the responses or creative projects in the next grade range. For instance, a student in the B- range would move to a B by completing two more responses OR an additional creative project and would earn a B+ by doing both of those things. Then, at the end of the semester, if the student has completed the requirements for a B+ and accrued no more than 2 unexcused absences, the grade goes up to an A-. If, however, the student has accrued 3 or 4 unexcused absences, the grade remains at B+.
 
-It is possible to make up unsatisfactory assignments. At the beginning of the semester, each student will be allotted three tokens. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of excused absences, and three tokens are required for another attempt at an unsatisfactory essay, exam, or creative project. No late assignments will be accepted without a documented reason.
+It is possible to make up unsatisfactory assignments. At the beginning of the semester, each student will be allotted three tokens. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory essay, exam, or creative project. No late assignments will be accepted without a documented reason.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -93,15 +93,15 @@ The semester grading contract takes into account only **unexcused** absences, th
 <hr>
 # <a name="responses">Response Guidelines</a>
 
-This requirement asks you to respond to secondary articles or chapters that treat ancient gender and sexuality. Articles or chapters to which you can respond are designated with an asterisk in the course schedule and in the course general bibliography. You are encouraged to write responses to articles or chapters that deal with a topic in which you are interested. So, you may choose to write four responses to the four articles and podcasts listed in Week 3, or you may opt to write no responses for that week and focus instead on general interest articles — it’s up to you!
+This requirement asks you to respond to secondary articles, chapters, or podcasts that treat ancient gender and sexuality. Articles or chapters to which you can respond are designated with an asterisk in the course schedule and in the course general bibliography. You are encouraged to write responses to articles, chapters, or podcasts that deal with a topic in which you are interested. So, you may choose to write four responses to the four articles and podcasts listed in Week 3, or you may opt to write no responses for that week and focus instead on general interest articles — it’s up to you!
 
 There is no particular due date for any given response; if you feel so inclined, you may, for example, read 14 articles and write 14 responses in the first week of the course and then not have to write any for the remainder. Do keep in mind, though, that the opposite is not true: all responses must be received by **6pm on May 6** (the final day of class), and you may submit **no more than six (6) responses in the space between April 30 and May 6**. So, it behooves you to keep up a regular response submission pattern — if you aim for one response per week, you’ll get to 12-13 responses, with only 1 or 2 more needed for A credit.
 
 Your response should be written in one of three formats: **3-2-1**, **argument analysis**, or **personal reflection**. All three formats should be **1-2pp. double-spaced**. If you go beyond 2 pp., that’s fine too; 1-2pp. is just a general guideline. **The response will be graded “satisfactory” if it answers each prompt or question under the appropriate heading below.**
 
-All responses on textual articles or chapters should be submitted via the [upload portal](resources#up) with the filename convention: **[LAST NAME] - RESPONSE - [AUTHOR LAST NAME] [DATE]**. For example: **Libatique - Response - Herz 2015.pdf**.
+All responses on textual articles or chapters should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - [AUTHOR LAST NAME] [DATE]**. For example: **Libatique - Response - Herz 2015.pdf**.
 
-All responses on podcasts should be submitted via the [upload portal](resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [PODCAST DESCRIPTION]**. For example: **Libatique - Response - Podcast - History of Ancient Greece on Marriage and Domesticity.pdf**.
+All responses on podcasts should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [WEEK OF ASSIGNMENT]**. For example: **Libatique - Response - Podcast - Week 4.pdf**.
 
 <span class="underline"><strong>3-2-1</strong></span>  
 Write down **three (3)** things that you learned.  
@@ -122,13 +122,13 @@ If the article speaks to you on a personal level (in terms of gender, sexual ori
 <hr>
 # <a name="quizzes">Quiz Guidelines</a>
 
-There will be **six (6)** quizzes administered in class throughout the semester at the end of the class period to which it’s assigned. Each quiz will be graded out of 10 points; **a satisfactory grade will be a 7/10 or higher**. The format of the quizzes will vary, from multiple choice to fill in the blank to matching. All quiz-able material will be drawn from the Terms and Concepts sheets distributed each week. Once you complete **four (4)** satisfactory quizzes, you are exempt from taking any remaining quizzes. If you do not complete four satisfactory quizzes within the six administered in class, we will correspond privately about further quiz opportunities.
+There will be **six (6)** quizzes administered in class throughout the semester at the end of the class period to which it’s assigned. Each quiz will be graded out of 10 points; **a satisfactory grade will be a 7/10 or higher**. The format of the quizzes will vary, from multiple choice to fill in the blank to matching. All quiz-able material will be drawn from the underlined terms on the slideshows. Once you complete **four (4)** satisfactory quizzes, you are exempt from taking any remaining quizzes. If you do not complete four satisfactory quizzes within the six administered in class, we will correspond privately about further quiz opportunities.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 # <a name="finex">Final Exam Guidelines</a>
 
-Towards the end of the semester, you will choose either to write a research essay or take an exam. The final exam will be composed of a combination of multiple-choice questions, fill-in-the-blanks, and one or two essay questions. Material for the multiple-choice questions and fill-in-the-blanks may be drawn from any of the Terms and Concepts sheets distributed each week of class. Material for the essays may be drawn from any topic discussed in class. The exam will take about an hour and a half to complete. The exam will be graded out of a total of 50 points, and **a satisfactory grade will be 35/50 or higher**. If you opt to take the final exam, you must let me know **by Monday 4/9 via e-mail**, and we will use that e-mail correspondence to determine a time and place for the exam.
+Towards the end of the semester, you will choose either to write an argumentative essay or take an exam. The final exam will be composed of a combination of multiple-choice questions, fill-in-the-blanks, and one or two essay questions. Material for the multiple-choice questions and fill-in-the-blanks may be drawn from any of the underlined terms on the slideshows. Material for the essays may be drawn from any topic discussed in class. The exam will take about an hour and a half to complete. The exam will be graded out of a total of 50 points, and **a satisfactory grade will be 35/50 or higher**. If you opt to take the final exam, you must let me know **by Monday 4/9 via e-mail**, and we will use that e-mail correspondence to determine a time and place for the exam.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -142,15 +142,17 @@ For reasons of space, the guidelines for the final essay will be provided direct
 
 You will be required to draw on at least two primary sources and two secondary sources to write your essay.
 
+The final essay will be due on **Friday, May 10, by 5pm**.
+
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 # <a name="cp">Creative Projects: General Guidelines</a>
 
-[Creative Project Prompts](/5-creative/)
+[Creative Project Prompts]({{ site.baseurl }}5-creative/)
 
-I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to looking for ancient gender and sexuality in modern media like movies or music. If you would like to complete a creative project that isn’t listed in the possibilities [here](/5-creative/), you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
+I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to looking for ancient gender and sexuality in modern media like movies or music. If you would like to complete a creative project that isn’t listed in the possibilities [here]({{ site.baseurl }}5-creative/), you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
 
-All text-based creative projects should be submitted via the [upload portal](/2-resources#up) on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
+All text-based creative projects should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
 **Libatique - Creative Project - Poem.pdf**  
 **Libatique - Creative Project - Sappho.pdf**  
@@ -158,6 +160,12 @@ etc.
 
 The guidelines for submission of all media-based creative projects is listed under the appropriate heading.
 
-All creative projects must be submitted to me **by 5pm on Thursday, May 9** (the first day of the exam period). There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete. If you’re going for an A (i.e., completing 4 creative projects), I recommend attempting to complete one every three weeks or so, as we have only about 12-13 full weeks of class.
+All creative projects must be submitted to me **by 5pm on Thursday, May 9** (the first day of the exam period), and you may submit **no more than two (2) creative projects between April 11 and May 9**. There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
+
+If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
+- Submit Creative Project #1: 2/25
+- Submit Creative Project #2: 3/20
+- Submit Creative Project #3: 4/15
+- Submit Creative Project #4: 5/9
 
 <a href="#top" class="underline">Back to top.</a>

@@ -32,3 +32,5 @@ The cost of books should never be a deterrent to participation in a class that y
 [Eidolon](https://eidolon.pub) - "Classics without Fragility." An online journal with modern takes on Classical texts and society.  
 
 [The Sportula](https://thesportula.wordpress.com/) - Microgrants for Classics undergrads. If you're struggling money-wise and need help for anything relating to your studies (buying books, paying for food, studying abroad, etc.), the Sportula can help.
+
+[Diotima](https://diotimawcc.wordpress.com/) - resources for studying women in the ancient world.
