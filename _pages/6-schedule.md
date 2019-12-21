@@ -1,7 +1,12 @@
 ---
 layout: page
 title: Schedule
+permalink: /schedule
 ---
+
+TBD
+
+<!--
 
 The readings listed under each week should be completed by the Monday class meeting of that week. We will spread the discussion over both class meetings, but all readings will be needed to make sense of the week's topic.
 
@@ -198,3 +203,5 @@ Quiz #6 on W 5/1.
 <p class="list">Assignments:</p>
 - Ormand 262-268 (2nd ed: 375-382).
 - \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
+
+-->

@@ -1,35 +1,27 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-plugins:          [jekyll-paginate]
+include:          ['_pages']
 
 # Permalinks
 permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Gender and Sexuality in the Ancient World
-tagline:          'Gender and Sexuality in the Ancient World'
+title:            Intro to Greco-Roman Gender and Sexuality
+tagline:          'Intro to Greco-Roman Gender and Sexuality'
 course_number:    'CLAS 199 01'
-semester:         'Spring 2019'
+semester:         'Spring 2020'
 location:         'College of the Holy Cross'
-url:              https://dlibatique.github.io/CLAS199
-baseurl:          /CLAS199/
+url:              https://dlibatique.github.io/CLAS199-S20
+baseurl:          /
 
 author:
   name:           'Daniel Libatique'
   url:            https://dlibatique.github.io
 
-paginate:         5
-
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/dlibatique/CLAS199
-
-pages:
-    - resources
-    - nuts
-    - grading
-    - schedule
+  repo:           https://github.com/dlibatique/CLAS199-S20

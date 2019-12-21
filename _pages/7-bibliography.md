@@ -1,7 +1,12 @@
 ---
 layout: page
 title: Bibliography
+permalink: /bibliography
 ---
+
+TBD
+
+<!--
 
 This is a general bibliography for print and electronic sources on gender and sexuality in the ancient world. This list is by no means complete, and I welcome suggestions for additions via [e-mail](https://dlibatique.github.io/contact/)!
 
@@ -77,3 +82,4 @@ Any piece that may be used for a [response]({{ site.baseurl }}4-grading#response
 - [History of Ancient Greece podcast: Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
 - [History of Ancient Greece: Marriage and Domesticity](http://www.thehistoryofancientgreece.com/2018/04/074-marriage-and-domesticity.html).
 - [History of Ancient Greece: Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
+-->
