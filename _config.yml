@@ -13,12 +13,12 @@ tagline:          'Intro to Greco-Roman Gender and Sexuality'
 course_number:    'CLAS 199 01'
 semester:         'Spring 2020'
 location:         'College of the Holy Cross'
-url:              https://dlibatique.github.io/CLAS199-S20
+url:              https://libatique.info/CLAS199-S20
 baseurl:          /
 
 author:
   name:           'Daniel Libatique'
-  url:            https://dlibatique.github.io
+  url:            https://libatique.info
 
 # Custom vars
 version:          2.1.0
