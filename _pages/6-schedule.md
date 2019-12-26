@@ -4,7 +4,196 @@ title: Schedule
 permalink: /schedule
 ---
 
-TBD
+The readings listed under each week should be completed by the Monday class meeting of that week. We will spread the discussion over both class meetings, but all readings will be needed to make sense of the week's topic.
+
+\* indicates a reading that may be used for a response.
+
+***
+
+## Week 1 (1/22, 1/24)- Introduction
+
+<p class="list">Assignments:</p>
+- Ormand TBD
+- Skinner TBD
+
+***
+
+## Week 2 (1/27, 1/29, 1/31) - Greek Epic
+
+<p class="list">Assignments:</p>
+- Ormand TBD
+- Skinner TBD
+- \* Zuckerberg, Donna. 2016. “[The Breasts that Launched a Thousand Ships (Helen’s face is up here, thanks).](https://eidolon.pub/the-breasts-that-launched-a-thousand-ships-c56b42aec9da)” *Eidolon*.
+- [Homer, Iliad 18.1-147](https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220) (Achilles laments over Patroclus).
+- [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament).
+- [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York.
+
+**Quiz #1**: M 1/27  
+**Response #1**: Due F 1/31 at 5pm
+
+***
+
+## Week 3 (2/3, 2/5, 2/7) - Social Structures and Constructions: Pederasty, Gender Roles, Marriage, Divorce
+
+Monday, February 03
+- Quiz #2
+
+Wednesday, February 05
+
+Friday, February 07
+- Response #2 Due
+
+***
+
+## Week 4 (2/10, 2/12, 2/14) - Greek Elegy and Lyric and the Symposium
+
+- \* Haselswerdt, Ella. 2016. “[Re-Queering Sappho.](https://eidolon.pub/re-queering-sappho-c6c05b6b9f0b)” *Eidolon*.
+
+Monday, February 10
+- Quiz #3
+
+Wednesday, February 12
+
+Friday, February 14
+- Response #3 Due
+
+***
+
+## Week 5 (2/17, 2/19, 2/21) - Greek Comedy
+
+Monday, February 17
+- Quiz #4
+
+Wednesday, February 19
+
+Friday, February 21
+- Response #4 Due
+
+***
+
+## Week 6 (2/24, 2/26, 2/28) - Greek Oratory and Law
+
+Monday, February 24
+- Quiz #5
+
+Wednesday, February 26
+
+Friday, February 28
+- Response #5 Due
+
+***
+
+## SPRING BREAK: 2/29 through 3/8
+
+***
+
+## Week 7 (3/9, 3/11, 3/13) - Hellenistic Poetry
+
+Monday, March 09
+- Quiz #6
+
+Wednesday, March 11
+
+Friday, March 13
+- MIDTERM PAPER DUE OR MIDTERM EXAM IN CLASS
+- Response #6 Due
+
+***
+
+## Week 8 (3/16, 3/18, 3/20) - From Greece to Rome
+
+Monday, March 16
+- Quiz #7
+
+Wednesday, March 18
+
+Friday, March 20
+- Response #7 Due
+
+***
+
+## Week 9 (3/23, 3/25, 3/27) - Social Structures and Constructions: Corporal Inviolability, Gender Roles, Marriage, Divorce
+
+Monday, March 23
+- Quiz #8
+
+Wednesday, March 25
+
+Friday, March 27
+- Response #8 Due
+
+***
+
+## Week 10 (3/30, 4/1, 4/3) - Roman Law and Cultural Relativity
+
+Monday, March 30
+- Quiz #9
+
+Wednesday, April 01
+
+Friday, April 03
+- Response #9 Due
+
+***
+
+## Week 11.1 (4/6, 4/8) - Catullus and the Elegists
+
+Monday, April 06
+- Quiz #10
+
+Wednesday, April 08
+
+***
+
+## EASTER BREAK: 4/9 through 4/13
+
+***
+
+## Week 11.2 (4/15, 4/17) - Ovid: Proto-Feminist or Extreme Sexist?
+
+Wednesday, April 15
+
+Friday, April 17
+- Response #10 Due
+
+***
+
+## Week 12 (4/20, 4/22, 4/24) - Graffiti and Wall Paintings
+
+- https://eidolon.pub/the-leda-fresco-rape-or-romp-86c62f72a864
+
+Monday, April 20
+- Quiz #11
+
+Wednesday, April 22
+
+Friday, April 24
+- Response #11 Due
+
+***
+
+## Week 13 (4/27, 4/29, 5/1) - Satire and Invective Poetry
+
+Monday, April 27
+- Quiz #12
+
+Wednesday, April 29
+
+Friday, May 01
+- Response #12 Due
+
+***
+
+## Week 14 (5/4) - In Conclusion
+
+Monday, May 04
+
+***
+
+## STUDY PERIOD: 5/5 through 5/6
+
+## EXAM PERIOD: 5/7 through 5/13
+
 
 <!--
 
