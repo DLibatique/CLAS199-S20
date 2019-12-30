@@ -28,6 +28,9 @@ The readings listed under each week should be completed by the Monday class meet
 - [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament).
 - [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York.
 
+<p class="list">Optional:</p>
+- \*
+
 **Quiz #1**: M 1/27  
 **Response #1**: Due F 1/31 at 5pm
 
