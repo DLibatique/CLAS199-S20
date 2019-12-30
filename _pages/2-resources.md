@@ -5,8 +5,14 @@ permalink: /resources
 ---
 
 ## Course Texts
+
+### Primary Textbook
 - Ormand, Kirk. 2018. [*Controlling Desires: Sexuality in Ancient Greece and Rome, Revised Edition*](https://www.amazon.com/dp/1477311459/ref=cm_sw_em_r_mt_dp_U_efM.Db423NXT8 ). University of Texas Press. ISBN-13: 978-1477311455; ISBN-10: 1477311459.  
-- Various supplemental articles and chapters in PDF or xerox form — see schedule.  
+
+### Other Important Books
+- Robson 
+- Skinner
+- Williams
 
 The cost of books should never be a deterrent to participation in a class that you want to take. If you have trouble affording our course textbook, please let me know, and I will work to get you an affordable copy through the resources of the College.  
 

@@ -13,76 +13,92 @@ The readings listed under each week should be completed by the Monday class meet
 ## Week 1 (1/22, 1/24)- Introduction
 
 <p class="list">Assignments:</p>
-- Ormand TBD
+- Ormand 1-24.
 - Skinner TBD
 
 ***
 
-## Week 2 (1/27, 1/29, 1/31) - Greek Epic
+## Week 2 (1/27, 1/29, 1/31) - Greek Social Structures and Constructions: Pederasty, Gender Roles, Marriage, Divorce
 
 <p class="list">Assignments:</p>
-- Ormand TBD
-- Skinner TBD
-- \* Zuckerberg, Donna. 2016. “[The Breasts that Launched a Thousand Ships (Helen’s face is up here, thanks).](https://eidolon.pub/the-breasts-that-launched-a-thousand-ships-c56b42aec9da)” *Eidolon*.
-- [Homer, Iliad 18.1-147](https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220) (Achilles laments over Patroclus).
-- [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament).
-- [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York.
+- Ormand 55-72.
+- \* Robson, James. 2013. "[Sexual Unions: Marriage and Domestic Life.](#)" In *Sex and Sexuality in Classical Athens*, 3-35. Edinburgh. <!-- ADD LINK -->
+- \* Robson, James. 2013. “[Same-Sex Relationships.](https://drive.google.com/file/d/1_ExjMvd3RdSnCLDcrPgawoeV1ru40X4V/view?usp=sharing)” In *Sex and Sexuality in Classical Athens*, 36-66. Edinburgh.
+- \* Listen to the [History of Ancient Greece podcast on marriage and domesticity](http://www.thehistoryofancientgreece.com/2018/04/074-marriage-and-domesticity.html) (scroll to the middle of the page for the appropriate play button).
 
 <p class="list">Optional:</p>
-- \*
+- \* Beck, Bill. 2018. “[The Measure of a Man: Minor Classical Phalluses, Major Modern Fragility.](https://eidolon.pub/the-measure-of-a-man-a3ae1af0dcb2)” *Eidolon*.
 
 **Quiz #1**: M 1/27  
 **Response #1**: Due F 1/31 at 5pm
 
 ***
 
-## Week 3 (2/3, 2/5, 2/7) - Social Structures and Constructions: Pederasty, Gender Roles, Marriage, Divorce
+## Week 3 (2/3, 2/5, 2/7) - Greek Epic
 
-Monday, February 03
-- Quiz #2
+<p class="list">Assignments:</p>
+- Ormand 25-34.
+- [Homer, Iliad 18.1-147](https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220) (Achilles laments over Patroclus).
+- [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament).
+- [Hesiod, Works & Days 53-105](https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/)
+- \* Miller, Madeline, [Q&A on *The Song of Achilles*.](http://madelinemiller.com/q-a-the-song-of-achilles/)
+- \* Zuckerberg, Donna. 2016. “[The Breasts that Launched a Thousand Ships (Helen’s face is up here, thanks).](https://eidolon.pub/the-breasts-that-launched-a-thousand-ships-c56b42aec9da)” *Eidolon*.
 
-Wednesday, February 05
+<p class="list">Optional:</p>
+- \* Harrisson, Juliette Grace. 2016. "[Shipping in Plato's *Symposium*.](https://journal.transformativeworks.org/index.php/twc/article/view/690/576)" In *The Classical Canon and/as Transformative Work*, edited by Ika Willis, special issue, *Transformative Works and Cultures* 21.
 
-Friday, February 07
-- Response #2 Due
+**Quiz #2**: M 2/3  
+**Response #2**: Due F 2/7 at 5pm
 
 ***
 
 ## Week 4 (2/10, 2/12, 2/14) - Greek Elegy and Lyric and the Symposium
 
+- Ormand 34-54.
+- [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York.
+- [Archilochus, Cologne Epode](https://diotima-doctafemina.org/translations/greek/archilochos-the-cologne-epode/archilochos-p-colon-7511/)
+- \* Murcia, Francesco Javier. 2017. "[Wine, Women, and Wisdom: The Symposia of Ancient Greece.](https://www.nationalgeographic.com/history/magazine/2017/01-02/ancient-greece-symposium-dinner-party/)" *National Geographic History*. -- Make sure to keep scrolling past each photo that divides the article into sections until you've read the whole piece! There are a lot of false ends.
 - \* Haselswerdt, Ella. 2016. “[Re-Queering Sappho.](https://eidolon.pub/re-queering-sappho-c6c05b6b9f0b)” *Eidolon*.
 
-Monday, February 10
-- Quiz #3
+<p class="list">Optional:</p>
+- \* Listen to the [In Our Time podcast on Sappho](https://www.bbc.co.uk/sounds/play/b05pqsk4).
+- \* Listen to the [Ancient Greece Declassified podcast on Sappho](http://greecepodcast.com/episode4.html).
 
-Wednesday, February 12
-
-Friday, February 14
-- Response #3 Due
+**Quiz #3**: M 2/10  
+**Response #3**: Due F 2/14 at 5pm
 
 ***
 
 ## Week 5 (2/17, 2/19, 2/21) - Greek Comedy
 
-Monday, February 17
-- Quiz #4
+<p class="list">Assignments:</p>
+- Ormand 73-91.
+- \* Listen to the [History of Ancient Greece podcast on Old Comedy and Aristophanes](http://www.thehistoryofancientgreece.com/2017/09/054-old-comedy-and-aristophanes.html) (scroll to the middle of the page for the appropriate play button).
+- \* Foley, Helene. 2014. “[Performing Gender in Greek Old and New Comedy.](https://drive.google.com/file/d/1aIPTXImQ0Cfyq45F-4wyJmcuARB_c8V_/view?usp=sharing)” In *The Cambridge Companion to Greek Comedy*, edited by Martin Revermann, 259-274. Cambridge.
+- \* Murray, Kourtney. 2018. “[Spinning Out of Hades: A Journey from the Thesmophoria to Spin Class.](https://eidolon.pub/spinning-out-of-hades-6c5891f0412a)” *Eidolon*.
 
-Wednesday, February 19
+<p class="list">Optional:</p>
+- \* Listen to the [In Our Time podcast on Comedy in Ancient Greek Theatre](https://www.bbc.co.uk/sounds/play/p003c1d3).
 
-Friday, February 21
-- Response #4 Due
+**Quiz #4**: M 2/17  
+**Response #4**: Due F 2/21 at 5pm
 
 ***
 
 ## Week 6 (2/24, 2/26, 2/28) - Greek Oratory and Law
 
-Monday, February 24
-- Quiz #5
+<p class="list">Assignments:</p>
+- Ormand 92-110.
+- \* Cantarella, Eva. 2005. "[Gender, Sexuality, and Law.](https://drive.google.com/file/d/17-54_nAv2-NSSRxnxAd9vonn-pDden9w/view?usp=sharing)" In *The Cambridge Companion to Ancient Greek Law*, edited by Michael Gagarin and David Cohen, 236-253. Cambridge.
+- \* Robson, James. 2013. "[Sex and the Law: Adultery and Rape.](#)" In *Sex and Sexuality in Classical Athens*, 90-115. Edinburgh. <!-- ADD LINK -->
+- \* Spatharas, Dimos. 2016. "[Sex, Politics, and Disgust in Aechines' *Against Timarchus*.](https://drive.google.com/file/d/17-_zs3_UeJRSHHW2q884t1-moi-ga7el/view?usp=sharing)" In *The Ancient Emotion of Disgust*, edited by Donald Lateiner and Dimos Spatharas, 125-139. Oxford.
 
-Wednesday, February 26
+<p class="list">Optional:</p>
+- \* Herz, Zachary. 2015. “[Law v. History: the story of the Supreme Court’s misguided, forty-year fixation on ancient gay history.](https://eidolon.pub/law-v-history-2ccfc296ca80)” *Eidolon*.
+- \* Listen to the [History of Ancient Greece podcast on Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
 
-Friday, February 28
-- Response #5 Due
+**Quiz #5**: M 2/24  
+**Response #5**: Due F 2/28 at 5pm
 
 ***
 
@@ -90,61 +106,82 @@ Friday, February 28
 
 ***
 
-## Week 7 (3/9, 3/11, 3/13) - Hellenistic Poetry
+## Week 7 (3/9, 3/11, 3/13) - Hellenistic Poetry, Midterm
 
-Monday, March 09
-- Quiz #6
+<p class="list">Assignments:</p>
+- Ormand 156-181.
+- \* Murray, Jackie and Jonathan M. Rowland. 2007. "[Gendered Voices in Hellenistic Epigram.](https://drive.google.com/file/d/175fDzT2B8cQt6VQ3MfNTC_2DS_Vo6BF8/view?usp=sharing)" In *Brill's Companion to Hellenistic Epigram*, edited by Peter Bing and Jon Bruss, 211-232. Leiden.
+- \* Fountoulakis, Andreas. 2013. "[Male Bodies, Male Gazes: Exploring Erôs in the Twelfth Book of the *Greek Anthology*](https://drive.google.com/file/d/18uh3YzkKkRu4ilbiBveGFJM-9vwJ611I/view?usp=sharing)." In *Erôs in Ancient Greece*, edited by Ed Sanders, Chiara Thumiger, Christopher Carey, and Nick Lowe, 293-312. Oxford.
 
-Wednesday, March 11
+<p class="list">Optional:</p>
+- \* Pomeroy, Sarah. 1995. "[Hellenistic Women.](https://drive.google.com/file/d/17hJSeOAXdU1LEVP-gWBw7qViVE9T0185/view?usp=sharing)" In *Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity*, 120-148. New York.
 
-Friday, March 13
-- MIDTERM PAPER DUE OR MIDTERM EXAM IN CLASS
-- Response #6 Due
-
-***
-
-## Week 8 (3/16, 3/18, 3/20) - From Greece to Rome
-
-Monday, March 16
-- Quiz #7
-
-Wednesday, March 18
-
-Friday, March 20
-- Response #7 Due
+**Quiz #6**: M 3/9  
+**Midterm Review Session**: TBD  
+**Midterm**: F 3/13  
+**Response #6**: Due F 3/13 at 5pm
 
 ***
 
-## Week 9 (3/23, 3/25, 3/27) - Social Structures and Constructions: Corporal Inviolability, Gender Roles, Marriage, Divorce
+## Week 8 (3/16, 3/18, 3/20) - From Greece to Rome: Corporal Inviolability and the Penetrative Model
 
-Monday, March 23
-- Quiz #8
+<p class="list">Assignments:</p>
+- Ormand 182-201.
+- \* Walters, Jonathan. 1997. "[Invading the Roman Body: Manliness and Impenetrability in Roman Thought.](https://drive.google.com/file/d/16TtKhHiHvdQ4uxnM_BwXvRvsAUg7Ijij/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 29-43. Princeton.
+- \* Williams, Craig. 1999. "Sexual Roles and Identities." In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 160-224. New York and Oxford. <!-- ??? -->
+- \* Oktaba, Nikolas. 2017. "[Dick Pics, Ancient and Modern.](https://eidolon.pub/dick-pics-ancient-and-modern-ed544e35b02d)" *Eidolon*.
 
-Wednesday, March 25
+<p class="list">Optional:</p>
+- \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
 
-Friday, March 27
-- Response #8 Due
+**Quiz #7** (on Hellenistic poetry only): M 3/16  
+**Response #7**: Due F 3/20 at 5pm
+
+***
+
+## Week 9 (3/23, 3/25, 3/27) - The Body Female and the Body Politic
+
+<p class="list">Assignments:</p>
+- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
+- \* Kenty, Joanna. 2017. “[Avenging Lucretia: From Rape to Revolution.](https://eidolon.pub/avenging-lucretia-dd14e936840c)” *Eidolon*. **CW**: rape.
+- \* Joshel
+
+<p class="list">Optional:</p>
+- \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
+
+**Quiz #8**: M 3/23  
+**Response #8**: Due F 3/27 at 5pm
 
 ***
 
 ## Week 10 (3/30, 4/1, 4/3) - Roman Law and Cultural Relativity
 
-Monday, March 30
-- Quiz #9
+<p class="list">Assignments:</p>
+- Ormand 225-246 (focus more on 239-246 than on the first part of the chapter.)
+- \* Williams, Craig. 1999. "[The Concept of *Stuprum*.](https://drive.google.com/file/d/1xsF15s9r8Ekp2XX8IfXVd0VwLVXIQ1t1/view?usp=sharing)" In *Roman Homosexuality*, 96-124. New York and Oxford.
+- \* Parker, Holt. 1997. "[The Teratogenic Grid.](https://drive.google.com/file/d/16S95Dgc6N-XZ4g6bNUwh7g8gRqtWoo_N/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 47-65.
+- \* Scullin, Sarah. 2016. "[Making a Monster.](https://eidolon.pub/making-a-monster-3cd90135ef3f)" *Eidolon*. **CW**: pedophilia.
 
-Wednesday, April 01
+<p class="list">Optional:</p>
+- \*
 
-Friday, April 03
-- Response #9 Due
+**Quiz #9**: M 3/30  
+**Response #9**: Due F 4/3 at 5pm
 
 ***
 
 ## Week 11.1 (4/6, 4/8) - Catullus and the Elegists
 
-Monday, April 06
-- Quiz #10
+<p class="list">Assignments:</p>
+- Ormand 247-278.
+- \* Manwell, Elizabeth. 2007. "[Gender and Masculinity.](https://drive.google.com/file/d/18X1Ew89AFFLCfO0yA_NJ7AtUAJWbV5SS/view?usp=sharing)" In *A Companion to Catullus*, edited by Marilyn B. Skinner, 111-128. Malden (MA) and Oxford.
+- \* Lee, Tori. 2017. "[To Me, You Are Creepy: Excluded Lovers from Rome to Rom-Com.](https://eidolon.pub/to-me-you-are-creepy-3646cbadc8a3)" *Eidolon*.
+- \* Kamil, Mariam. 2019. "[“I Shall — \#\$\% You And \*\@\$\# You”.](https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33)" *Eidolon*.
 
-Wednesday, April 08
+<p class="list">Optional:</p>
+- \* Listen to the [Reading Latin Poetry podcast on Catullus 16](http://www.readinglatinpoetry.com/podcast/2015/6/12/episode-17-sexual-and-literary-violence-catullus-16).
+
+**Quiz #10**: M 4/6
 
 ***
 
@@ -154,42 +191,50 @@ Wednesday, April 08
 
 ## Week 11.2 (4/15, 4/17) - Ovid: Proto-Feminist or Extreme Sexist?
 
-Wednesday, April 15
+<p class="list">Assignments:</p>
+- [Ovid *Ars Amatoria* 1.1-772](https://drive.google.com/file/d/18aN6K-iw8S3_IUDcjH5Ihb9j_Le21gcf/view?usp=sharing) (Francese, Christopher and R. Scott Smith, eds. 2014. *Ancient Rome: An Anthology of Sources*, 227-248. Indianapolis and Cambridge.)
+- Ovid *Metamorphoses* 6.424-674 <!-- ADD LINK -->
+- \* Zuckerberg, Donna. 2015. "[Bang Rome: Ovid and the Original Sin of Pickup Artistry.](https://eidolon.pub/bang-rome-2214f4a3d5c5)” *Eidolon*.
+- \* James, Sharon L. 2016. "[Rape and Repetition in Ovid's *Metamorphoses*: Myth, History, Structure, Rome.](https://drive.google.com/file/d/18IT6u4Hg8N3nM0yTMh9uGpHM59nHxBh0/view?usp=sharing)" In *Repeat Performances*, edited by Laurel Fulkerson, 154-175. Madison (Wisc.).
 
-Friday, April 17
-- Response #10 Due
+<p class="list">Optional:</p>
+- Ormand 279-292.
+- \* Barish, Sasha. 2018. "[Iphis’ Hair, Io’s Reflection, and the Gender Dysphoria of the *Metamorphoses*.](https://eidolon.pub/iphis-hair-io-s-reflection-and-the-gender-dysphoria-of-the-metamorphoses-4b75c1ba38d7)" *Eidolon*.
+
+**Response #10**: Due 4/17 at 5pm
 
 ***
 
-## Week 12 (4/20, 4/22, 4/24) - Graffiti and Wall Paintings
+## Week 12 (4/20, 4/24) - Graffiti and Wall Paintings
 
 - https://eidolon.pub/the-leda-fresco-rape-or-romp-86c62f72a864
 
-Monday, April 20
-- Quiz #11
-
-Wednesday, April 22
-
-Friday, April 24
-- Response #11 Due
+**Quiz #11**: M 4/20  
+**Response #11**: Due F 4/24 at 5pm
 
 ***
 
 ## Week 13 (4/27, 4/29, 5/1) - Satire and Invective Poetry
 
-Monday, April 27
-- Quiz #12
+<p class="list">Assignments:</p>
+- Ormand 344-374.
+- \* Rosen, Ralph M. and Catherine C. Keane. 2013. "[Greco-Roman Satirical Poetry.](https://drive.google.com/file/d/18BTl0m7oKRLsEsrX7TyHZYtaaIqxJaPC/view?usp=sharing)" In *A Companion to Greek and Roman Sexualities*, edited by Thomas K. Hubbard, 388-404. Hoboken.
+- [Juvenal *Satires* 2](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires2.php).
+- \* Nappa, Christopher. 2018. "[The Dangers of Debasement: Manhood and Class.](https://drive.google.com/file/d/18o8sbXtYmkRj2OXIdnHCAlrN8LGOIaQQ/view?usp=sharing)" In *Making Men Ridiculous: Juvenal and the Anxieties of the Individual*, 93-126. Ann Arbor.
 
-Wednesday, April 29
+<p class="list">Optional:</p>
+- \*
 
-Friday, May 01
-- Response #12 Due
+**Quiz #12**: M 4/27  
+**Response #12**: Due F 5/1 at 5pm
 
 ***
 
 ## Week 14 (5/4) - In Conclusion
 
-Monday, May 04
+<p class="list">Assignments:</p>
+- Ormand 375-382.
+- \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
 
 ***
 
