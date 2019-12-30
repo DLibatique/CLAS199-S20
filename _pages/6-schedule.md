@@ -117,7 +117,6 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Pomeroy, Sarah. 1995. "[Hellenistic Women.](https://drive.google.com/file/d/17hJSeOAXdU1LEVP-gWBw7qViVE9T0185/view?usp=sharing)" In *Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity*, 120-148. New York.
 
 **Quiz #6**: M 3/9  
-**Midterm Review Session**: TBD  
 **Midterm**: F 3/13  
 **Response #6**: Due F 3/13 at 5pm
 
