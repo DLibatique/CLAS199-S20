@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule
 ---
 
-The readings listed under each week should be completed by the Monday class meeting of that week. We will spread the discussion over both class meetings, but all readings will be needed to make sense of the week's topic.
+The readings listed under each week should be completed by the Monday class meeting of that week. We will spread the discussion over all three class meetings of the week, but all readings will be needed to make sense of the week's topic.
 
 \* indicates a reading that may be used for a response.
 
@@ -13,12 +13,13 @@ The readings listed under each week should be completed by the Monday class meet
 ## Week 1 (1/22, 1/24)- Introduction
 
 <p class="list">Assignments:</p>
-- Ormand 1-24.
-- Skinner TBD
+- Read the [grading contract](grading) thoroughly to ensure that you understand all the requirements of the course.
+- Fill out this [student information form](#). <!-- add link -->
+- Read [Ormand 1-24](#). <!-- add link -->
 
 ***
 
-## Week 2 (1/27, 1/29, 1/31) - Greek Social Structures and Constructions: Pederasty, Gender Roles, Marriage, Divorce
+## Week 2 (1/27, 1/29, 1/31) - Greek Social Structures and Constructions: Gender Roles, Marriage, Divorce, Pederasty
 
 <p class="list">Assignments:</p>
 - Ormand 55-72.
@@ -30,7 +31,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Beck, Bill. 2018. “[The Measure of a Man: Minor Classical Phalluses, Major Modern Fragility.](https://eidolon.pub/the-measure-of-a-man-a3ae1af0dcb2)” *Eidolon*.
 
 **Quiz #1**: M 1/27  
-**Response #1**: Due F 1/31 at 5pm
+**Response #1**: Due F 1/31 by 11:59pm
 
 ***
 
@@ -48,7 +49,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Harrisson, Juliette Grace. 2016. "[Shipping in Plato's *Symposium*.](https://journal.transformativeworks.org/index.php/twc/article/view/690/576)" In *The Classical Canon and/as Transformative Work*, edited by Ika Willis, special issue, *Transformative Works and Cultures* 21.
 
 **Quiz #2**: M 2/3  
-**Response #2**: Due F 2/7 at 5pm
+**Response #2**: Due F 2/7 by 11:59pm
 
 ***
 
@@ -65,7 +66,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Listen to the [Ancient Greece Declassified podcast on Sappho](http://greecepodcast.com/episode4.html).
 
 **Quiz #3**: M 2/10  
-**Response #3**: Due F 2/14 at 5pm
+**Response #3**: Due F 2/14 by 11:59pm
 
 ***
 
@@ -81,7 +82,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Listen to the [In Our Time podcast on Comedy in Ancient Greek Theatre](https://www.bbc.co.uk/sounds/play/p003c1d3).
 
 **Quiz #4**: M 2/17  
-**Response #4**: Due F 2/21 at 5pm
+**Response #4**: Due F 2/21 by 11:59pm
 
 ***
 
@@ -98,7 +99,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Listen to the [History of Ancient Greece podcast on Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
 
 **Quiz #5**: M 2/24  
-**Response #5**: Due F 2/28 at 5pm
+**Response #5**: Due F 2/28 by 11:59pm
 
 ***
 
@@ -118,7 +119,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 **Quiz #6**: M 3/9  
 **Midterm**: F 3/13  
-**Response #6**: Due F 3/13 at 5pm
+**Response #6**: Due F 3/13 by 11:59pm
 
 ***
 
@@ -134,7 +135,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
 
 **Quiz #7** (on Hellenistic poetry only): M 3/16  
-**Response #7**: Due F 3/20 at 5pm
+**Response #7**: Due F 3/20 by 11:59pm
 
 ***
 
@@ -149,7 +150,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
 
 **Quiz #8**: M 3/23  
-**Response #8**: Due F 3/27 at 5pm
+**Response #8**: Due F 3/27 by 11:59pm
 
 ***
 
@@ -165,7 +166,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \*
 
 **Quiz #9**: M 3/30  
-**Response #9**: Due F 4/3 at 5pm
+**Response #9**: Due F 4/3 by 11:59pm
 
 ***
 
@@ -200,7 +201,7 @@ The readings listed under each week should be completed by the Monday class meet
 - Ormand 279-292.
 - \* Barish, Sasha. 2018. "[Iphis’ Hair, Io’s Reflection, and the Gender Dysphoria of the *Metamorphoses*.](https://eidolon.pub/iphis-hair-io-s-reflection-and-the-gender-dysphoria-of-the-metamorphoses-4b75c1ba38d7)" *Eidolon*.
 
-**Response #10**: Due 4/17 at 5pm
+**Response #10**: Due 4/17 by 11:59pm
 
 ***
 
@@ -209,23 +210,23 @@ The readings listed under each week should be completed by the Monday class meet
 - https://eidolon.pub/the-leda-fresco-rape-or-romp-86c62f72a864
 
 **Quiz #11**: M 4/20  
-**Response #11**: Due F 4/24 at 5pm
+**Response #11**: Due F 4/24 by 11:59pm
 
 ***
 
-## Week 13 (4/27, 4/29, 5/1) - Satire and Invective Poetry
+## Week 13 (4/27, 4/29, 5/1) - Roman Comedy
 
 <p class="list">Assignments:</p>
-- Ormand 344-374.
-- \* Rosen, Ralph M. and Catherine C. Keane. 2013. "[Greco-Roman Satirical Poetry.](https://drive.google.com/file/d/18BTl0m7oKRLsEsrX7TyHZYtaaIqxJaPC/view?usp=sharing)" In *A Companion to Greek and Roman Sexualities*, edited by Thomas K. Hubbard, 388-404. Hoboken.
-- [Juvenal *Satires* 2](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires2.php).
-- \* Nappa, Christopher. 2018. "[The Dangers of Debasement: Manhood and Class.](https://drive.google.com/file/d/18o8sbXtYmkRj2OXIdnHCAlrN8LGOIaQQ/view?usp=sharing)" In *Making Men Ridiculous: Juvenal and the Anxieties of the Individual*, 93-126. Ann Arbor.
+- Ormand 202-223.
+- \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
+- \* Dutsch, Dorota. 2015. "[Feats of Flesh: The Female Body on the Plautine Stage.](https://drive.google.com/file/d/18DHT29Fjt9w3nJ2V3_NBZ5NeTIxxpGBe/view?usp=sharing)" In *Women in Republican Roman Drama*, edited by Dorota Dutsch, Sharon L. James, and David Konstan, 17-36. Madison (Wisc.).
+- \* Packman, Z.M. 1993. "[Call It Rape: A Motif in Roman Comedy and its Suppression in English-Speaking Publications.](https://drive.google.com/file/d/18qhvrGHxix7Hny89SRMnRPN36iZjImgj/view?usp=sharing)" *Helios* 20: 42-55. **CW**: rape.
 
 <p class="list">Optional:</p>
-- \*
+- \* [Plautus' *Casina*](https://drive.google.com/file/d/1llLRZDCfjAZDu8k3NKYE_Cz5cRi8wA8M/view?usp=sharing) (Christenson, David, tr. 2008. *Plautus: Four Plays.* Newburyport (MA).)
 
 **Quiz #12**: M 4/27  
-**Response #12**: Due F 5/1 at 5pm
+**Response #12**: Due F 5/1 by 11:59pm
 
 ***
 

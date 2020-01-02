@@ -5,13 +5,10 @@ permalink: /grading
 ---
 
 [Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|
-Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Final Exam or Paper](#final-exam-or-paper) \| [Final Exam](#final-exam-guidelines) \| [Final Paper](#final-paper-guidelines) \| [Creative Projects](#creative-projects-general-guidelines)
+Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Midterm and Final](#midterm-and-final) \| [Midterm or Final Alternative: Essay](#midterm-or-final-alternative-essay) \| [Creative Projects](#creative-projects-general-guidelines)
 
 ---
 
-TBD
-
-<!--
 ## Grading Contract
 
 Grading and assessments in this course will be unorthodox. We will be following a form of **specification grading**, in which all assignments and assessments (including quizzes) are graded on a **satisfactory or unsatisfactory** basis (except for the final exam/essay, on which see below). Each assignment and assessment will have an explicit set of guidelines and criteria for what will be considered “satisfactory.” Your semester grade, then, will be based on the number and type of satisfactory assignments and assessments completed. In other words, **you will be in control of your semester grade** — you decide the grade that you want and commit as much time and energy towards that grade as you desire.
@@ -40,21 +37,21 @@ The following is a rubric for semester-end grades in the course.
         </tr>
         <tr>
             <td class="row-start"><strong>Quizzes</strong></td>
-            <td>10</td>
-            <td>8</td>
-            <td>6</td>
-            <td>4</td>
-            <td>2</td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <td class="row-start"><strong>Responses</strong></td>
-            <td>14</td>
             <td>12</td>
             <td>10</td>
             <td>8</td>
             <td>6</td>
             <td>4</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td class="row-start"><strong>Responses</strong></td>
+            <td>12</td>
+            <td>10</td>
+            <td>8</td>
+            <td>6</td>
+            <td>4</td>
+            <td>2</td>
         </tr>
         <tr>
             <td class="row-start"><strong>Creative Projects</strong></td>
@@ -66,24 +63,26 @@ The following is a rubric for semester-end grades in the course.
             <td>0</td>
         </tr>
         <tr>
-            <td class="row-start"><strong>Final Exam/Paper*</strong></td>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
-            <td>X</td>
+            <td class="row-start"><strong>Midterm and Final*</strong></td>
+            <td>1 A,<br>1 A-</td>
+            <td>2 A-'s</td>
+            <td>2 B-'s</td>
+            <td>2 C-'s</td>
+            <td>2 D+'s</td>
+            <td>2 D's</td>
         </tr>
     </tbody>
 </table>
 
-To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences; and you must complete 6 quizzes, 10 responses to secondary readings, 2 creative projects, and a final essay or exam. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
+To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences; and you must complete 8 quizzes, 8 responses to secondary readings, 2 creative projects, and earned at least a B- on both the midterm and the final. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
 
-Once you have reached either the C- or B- range, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria in the next grade level in any one or two of the following categories: quizzes, responses, or creative projects. The completion of one improves your semester grade from a minus to the regular letter; the completion of two improves your semester grade from the regular letter to a plus; the completion of all three moves you to the next letter range. For example, a student in the B- range can move to a B by completing two more quizzes. The student can then improve to a B+ by completing another creative project in addition to completing the quizzes. If the student wants to improve that B+ to an A-, then they can complete two more responses, and then if the final unexcused absence tally at the end of the semester works out, the student earns an A-!
+Once you have reached either the C- or B- range, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria in the next grade level in any one or two of the following categories: quizzes, responses, or creative projects. The completion of one improves your semester grade from a minus to the regular letter; the completion of two improves your semester grade from the regular letter to a plus; the completion of all three moves you to the next letter range if your midterm/final grades and unexcused absence tally allow it. For example, a student in the B- range can move to a B by completing two more quizzes. The student can then improve to a B+ by completing another creative project in addition to completing the quizzes. If the student then completes two more responses AND earns at least an A- on both exams AND has two or fewer unexcused absences, then the student earns an A- for the semester!
 
-\* The exam/paper requirement is the only element of the grading contract that I will grade subjectively, and its grade will contribute to a movement up or down in semester grade; see the specific guidelines below under [Final Exam or Paper Guidelines](#final-exam-or-paper).
+\* The midterm and final are the only elements of the grading contract that I will grade subjectively; see the specific details below under [Midterm and Final Guidelines](#midterm-and-final).
 
-It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. No late assignments will be accepted without a documented reason.
+It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. The midterm and final cannot be retaken.
+
+No late assignments will be accepted without documented permission. I strongly encourage you to be proactive in reaching out to me if you anticipate not being able to make a deadline; it is far preferable to set up a later due date than to ask for an extension after the fact!
 
 [Back to top.](#top)
 
@@ -110,13 +109,13 @@ The semester grading contract takes into account only **unexcused** absences, th
 
 ## Quiz Guidelines
 
-There will be **twelve (12) quizzes** administered in class throughout the semester every Friday (except for September 6). Each quiz will take up the first **5 minutes** of the class period in which it’s administered. The format for each quiz can be any combination of the following formats: multiple choice, fill-in answers, or matching (e.g., authors to names of works, events and dates, etc.). **All quiz-able material will be drawn from the underlined terms on the slideshows**.
+There will be **twelve (12) quizzes** administered in class throughout the semester every Monday, including the first Monday of the course. Each quiz will take up the first **5 minutes** of the class period in which it’s administered. The format for each quiz can be any combination of the following formats: multiple choice, fill-in answers, or matching (e.g., authors to names of works, events and dates, etc.). **All quiz-able material will be drawn from the underlined terms on the slideshows**.
 
 I purposefully write the slideshow terms without much detail, and the definitions and explanations that I will provide in class cannot be found through Google searches or the like. It behooves you to take good notes, study constantly, and contact me with any questions about terms as they arise. Make sure to have a buddy in class from whom you can get notes if you are absent on a given day.
 
 If you are absent or late on a quiz day, I will allow you to take a make-up **ONLY** if the absence or lateness is excused. If the absence or lateness is unexcused, you will receive a 0 for that quiz.
 
-A satisfactory quiz grade will be **7 out of 10 points**. Once you complete **ten (10)** satisfactory quizzes (the requirement for a semester grade of A), you are exempt from taking any remaining quizzes.
+A satisfactory quiz grade will be **7 out of 10 points**.
 
 [Back to top.](#top)
 
@@ -124,15 +123,13 @@ A satisfactory quiz grade will be **7 out of 10 points**. Once you complete **te
 
 ## Response Guidelines
 
-This requirement asks you to respond to secondary articles, chapters, or podcasts that treat themes of Roman literature and society. All articles and chapters to which you may respond are located on the [Reading Responses and Podcasts page](responses). You do not have to choose an article, chapter, or podcast from every module; in fact, you are encouraged to read and respond to the articles, chapters, or podcasts that deal with a module or topic in which you are interested. So, you can, for example, read and respond to one, two, or even all three pieces in the "Conspiracy and Civil War in the 1st Century BCE" module, but then not read or respond to anything in the "Elegiac and Nugatory Poetry 3: Republican Odes and Imperial Epigrams" module. It's totally up to you!
+This requirement asks you to respond to secondary articles, chapters, or podcasts that treat ancient gender and sexuality. Articles or chapters to which you can respond are designated with an asterisk in the [course schedule](schedule) and in the [course general bibliography](bibliography). You are encouraged to write responses to articles, chapters, or podcasts that deal with a topic in which you are interested for any given week! So, for example, in Week 4, we will discuss symposium culture and lyric poetry, and one element of the conversation will be the Greek poetess Sappho. If you're particularly interested in her, you should write a response to Ella Haselswerdt's *Eidolon* piece, "Re-Queering Sappho."
 
-For **each full month** of the semester (September, October, and November), you may submit **up to four (4) responses and no more**. For **December up to 5pm on Friday, December 13** (the last day of class), you may submit **up to two (2) responses and no more**. If you keep to this schedule, you are on track for the full **fourteen (14) responses** needed for a semester grade of A.
-
-I highly encourage you to plan out your response writing at the beginning of the semester. If you fall short of a month’s quota of responses, you will not be allowed to submit more than four in the following months to make up for it. The responses for a given month do not need to respond to articles assigned to classes within that month; for example, you can submit in December a response to Mariam Kamil's *Eidolon* piece, “‘I Shall — #$\% You And \*\@$# You’: Grappling with Censorship as a Queer Classicist,” assigned for the "Elegiac and Nugatory Poetry 1: *novum libellum* and the Female Perspective" module, even though we will have discussed that module topic way back on Friday, September 20. The main point to keep in mind is that you can submit a maximum of four responses each in September, October, and November, and two in December.
+You may submit up to **one (1) response per week**, defined as the period from one Saturday at 12am to the next Friday at 11:59pm. To make this clearer, response submission deadlines are listed for each week of the semester in the [course schedule](schedule). If you miss a response deadline, you will not have the opportunity to make it up later unless you use a token, so please plan accordingly and be proactive in informing me if you think you'll miss a deadline.
 
 Your response should be written in one of three formats: **3-2-1**, **argument analysis**, or **personal reflection**. All three formats should be **1-2pp. double-spaced**. If you go beyond 2 pp., that’s fine too; 1-2pp. is just a general guideline. **The response will be graded “satisfactory” if it answers each prompt or question under the appropriate heading below.**
 
-Every response should include in the header **the type of response** (3-2-1, argument analysis, or personal reflection) **and the author and title of the article or chapter or the podcast name and episode number/name of the podcast to which you are responding**. Feel free to copy and paste the author/title or podcast and episode name from the [Response Readings and Podcasts page](responses).
+Every response should include in the header **the type of response** (3-2-1, argument analysis, or personal reflection) **and the author and title of the article or chapter or the podcast name and episode number/name of the podcast to which you are responding**. Feel free to copy and paste the author/title or podcast and episode name from the [course schedule](schedule) or [course bibliography](bibliography).
 
 ### 3-2-1
 - Write down **three (3)** things that you learned.
@@ -150,55 +147,44 @@ Answer the following questions:
 ### Personal Reflection
 If the article speaks to you on a personal level (in terms of lived experience, personality traits, gender or sexual orientation, political affiliation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life? (Disclaimer: see “Mandated Reporter” section of Nuts & Bolts in the syllabus.)
 
-All responses should be submitted via the [upload portal](https://forms.gle/AQSPjMyhwTN6x8Vw8).
-
-The grading rubric for responses can be found [here](https://drive.google.com/open?id=1cOQTv7RUxsauLRvAaln7tabTeojwpgoh3k4w4mlVmTg).
+All responses should be submitted via the [upload portal](#). <!-- add link -->
 
 [Back to top.](#top)
 
 ---
 
-## Final Exam or Paper
+## Midterm and Final
 
-As a final requirement for the course, **you will choose whether to complete an exam or a paper**. I prefer that you make your own choice rather than I dictate one format for the entire class, as some students prefer studying for exams, while others prefer writing papers.
+There will be **two (2) 50-minute exams** in this course, a midterm that will cover all the Greek topics in the course and a final that will cover all the Roman topics in the course (i.e., the final will not be cumulative). Each will be graded out of 100 points and formatted like larger quizzes (e.g., multiple choice and matching sections) with some modifications (e.g., fill in the blanks with a word bank) and additions (e.g., short answers). The short answers may ask you to compare two passages that we’ve read during the semester, to describe social institutions like marriage or pederasty, etc.
 
-In class on **Friday, November 22**, I will circulate a sign-up sheet where you will write down your preference for either an exam or a paper. The final exam will be on **Thursday, December 19, from 11:30am to 2pm**. The final paper will be due either via upload portal or physical copy in my office on **Thursday, December 19, at 2pm**.
+The midterm and final block of the grading contract explains the grades that you need to get in both the midterm and the final to achieve that grade level. So, for example, if you received an A on both the midterm and the final, you are eligible for a semester grade of A; if, however, you received an A on the midterm but a B+ on the final, you are eligible for a semester grade in the B- range (see grading contract above for further details on how all the elements of the contract work together).
 
-The exam/paper, due to its singular nature and timing at the end of the semester, is the only element of the grading contract that I will grade subjectively. As a result, the grade ranges for each will impact movement for your semester grade as follows:
-
-The final exam will be graded out of **100 points**.
-- A grade of **80 or higher** improves your semester grade by one stop (e.g., from a - to a letter, from a letter to a +, from a + to the - in the next range, etc.).
-- A grade of **70-79** keeps your grade wherever it is.
-- A grade of **69 or lower** decreases your semester grade by one stop (e.g., from a - to a + in the previous range, from a + to a letter, from a letter to a -, etc.).
+The numerical grade of the exam will be converted into a letter grade according to the following guidelines:
+- A = 96-100%; A- = 90-95%  
+- B+ = 87-89%; B = 84-86%; B- = 80-83%  
+- C+ = 77-79%; C = 74-76%; C- = 70-73%  
+- D+ = 67-69%; D = 65-66%  
+- F = 0-64%
 
 Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number.
 
-The final paper will be graded on a **letter basis**.
-- A grade of **B- or higher** improves your semester grade by one stop.
-- A grade of **C- to C+** keeps your grade wherever it is.
-- A grade of **D+ or lower** decreases your semester grade by one stop.
+The midterm will be administered in class on **Friday, March 13**. The final will be administered at a date and time set by the registrar during the Spring 2020 exam period.
 
-This movement of grade can override a lack of satisfactories in other elements of the grading contract. For example, if by the end of the semester a student has completed the requirements for an A- (2 or fewer unexcused absences, 8 quizzes, 12 responses, and 3 creative projects), a grade of 80 or higher on a final exam or a grade of B- or higher on a final paper can improve the semester grade from A- to A, even though the student has not completed the extra 2 quizzes, 2 responses, and 1 creative project. You can (and should!) take this fact into account when planning out your assignments for the semester.
+### Midterm or Final Alternative: Essay
 
-[Back to top.](#top)
+**PLEASE NOTE**: If you know that you're a stronger essay writer than exam taker, you have the option of replacing one or both of the exams with an essay. If you choose this option, you will be required to make and substantiate an argument about gender and sexuality in the ancient world in a **5-6 pp. essay**. To be clear, 5-6 pages is not a lot of space; the challenge of this essay is making a persuasive argument using proper primary and scholarly secondary evidence in a small amount of space. Sample prompts include:
 
----
+- Can we equate the ancient *cinaedus* with the modern notion of a gay man? Why or why not?
+- Was love and affection a primary concern in ancient Greek marriage?
+- Did Greek women or Roman women possess more social power in their respective cultures?
 
-## Final Exam Guidelines
+You will be required to draw on at least two primary sources and two secondary sources to write your essay.
 
-The final exam format will be like an extended quiz (with multiple choice, fill in the blank, and matching questions) with additional short answer questions. The short answers may ask you to compare two passages that we’ve read during the semester, to describe social conditions or institutions in Rome, etc. The final exam will be cumulative.
+Essays will be assigned a letter, rather than a numerical, grade.
 
-The final exam will be administered on **Thursday, December 19, from 11:30am to 2pm** in our normal classroom (Beaven 118).
-
-[Back to top.](#top)
-
----
-
-## Final Paper Guidelines
-
-For the final paper, I will provide eight (8) prompts from which you should choose one and write a 5-6pp. (double-spaced) argumentative paper to answer it. If you would like to write an argumentative paper on a topic or text not covered by the prompt options, shoot me an e-mail and we’ll discuss its viability. Specific guidelines are contained [here]({{ site.baseurl }}/final-paper).
-
-The final paper will be due either via upload portal or physical copy in my office on **Thursday, December 19, at 2pm**.
+**You must opt into writing an essay; otherwise, I will assume that you're taking the exam.** Once you notify me that you'd like to write an essay, I will provide further guidelines.
+- If you'd like to write a midterm essay, you must notify me **by Friday 2/28**, and it will be due **by 1:50pm on March 13**.
+- If you'd like to write a final essay, you must notify me **by Friday 4/24**, and it will be due by the end of the class' final exam, whatever time the registrar sets.
 
 [Back to top.](#top)
 
@@ -212,18 +198,16 @@ I will designate a number of possible projects for you to complete that will dra
 
 **You are allowed to submit only one (1) of each type of creative project.** That means that you can, for example, submit a poem, an artwork, a selfie and object analysis, and a Spotify playlist as your four creative projects if you are aiming for a semester grade of A. You cannot submit, for example, four poems or two poems and two artworks.
 
-All text-based creative projects should be submitted via the [upload portal](https://forms.gle/AQSPjMyhwTN6x8Vw8).
+All text-based creative projects should be submitted via the [upload portal](#). <!-- add link -->
 
 The guidelines for submission of all media-based creative projects are listed under the appropriate headings.
 
-All creative projects must be submitted to me by **5pm on Monday, December 16 (the last day of Study Period)**. There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
+You may submit up to **one (1) creative project per quarter of the course** according to the following deadlines:
+- Creative Project #1: 2/28  
+- Creative Project #2: 3/27  
+- Creative Project #3: 4/24  
+- Creative Project #4: the date of the final exam  
 
-If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
-
-Submit Creative Project #1: 9/27  
-Submit Creative Project #2: 10/25  
-Submit Creative Project #3: 11/22  
-Submit Creative Project #4: 12/16  
+If you miss a creative project deadline, you will not have the opportunity to make it up later unless you use three tokens, so please plan accordingly and be proactive in informing me if you think you'll miss a deadline.
 
 [Back to top.](#top)
--->
