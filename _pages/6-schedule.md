@@ -207,7 +207,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 12 (4/20, 4/24) - Graffiti and Wall Paintings
 
-- https://eidolon.pub/the-leda-fresco-rape-or-romp-86c62f72a864
+- Ormand TBD
+- \* "[The Leda Fresco -- Rape or Romp?](https://eidolon.pub/the-leda-fresco-rape-or-romp-86c62f72a864)" *Eidolon*.
 
 **Quiz #11**: M 4/20  
 **Response #11**: Due F 4/24 by 11:59pm
