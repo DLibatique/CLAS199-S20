@@ -12,10 +12,6 @@ permalink: /creative-projects
 
 ---
 
-TBD
-
-<!--
-
 ## <a name="poem">Creative Project 1: Write a Poem.</a>
 
 [Review this set of four poems by Roman authors](https://docs.google.com/document/d/1Lh-eb5yhpwpA5N3SRVlNIO-1BsTUTQbj1SRpgCBjWNE/edit?usp=sharing). Your goal in this creative project is to choose one author and **write a poem of 30-40 lines in their style, capturing their essence by using similar diction, poetic structure, and themes; also, write a short (4-5 sentence) blurb on your process -- how did you go about capturing the author's essence?** The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona! You may also choose a poem or a selection of verse from another work or author that we've considered throughout the semester, but I recommend that you run your choice by me first before attempting your own poem.
@@ -200,4 +196,3 @@ The grading rubric for this creative project can be found [here](https://drive.g
 [Back to top.](#top)
 
 ---
--->
