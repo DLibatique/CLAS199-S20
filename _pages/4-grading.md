@@ -11,7 +11,7 @@ Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| 
 
 ## Grading Contract
 
-Grading and assessments in this course will be unorthodox. We will be following a form of **specification grading**, in which all assignments and assessments (including quizzes) are graded on a **satisfactory or unsatisfactory** basis (except for the final exam/essay, on which see below). Each assignment and assessment will have an explicit set of guidelines and criteria for what will be considered “satisfactory.” Your semester grade, then, will be based on the number and type of satisfactory assignments and assessments completed. In other words, **you will be in control of your semester grade** — you decide the grade that you want and commit as much time and energy towards that grade as you desire.
+Grading and assessments in this course will be unorthodox. We will be following a form of **specification grading**, in which all assignments and assessments (including quizzes) are graded on a **satisfactory or unsatisfactory** basis (except for the midterm and final, on which see below). Each assignment and assessment will have an explicit set of guidelines and criteria for what will be considered “satisfactory.” Your semester grade, then, will be based on the number and type of satisfactory assignments and assessments completed. In other words, **you will be in control of your semester grade** — you decide the grade that you want and commit as much time and energy towards that grade as you desire.
 
 The following is a rubric for semester-end grades in the course.
 
@@ -64,17 +64,17 @@ The following is a rubric for semester-end grades in the course.
         </tr>
         <tr>
             <td class="row-start"><strong>Midterm and Final*</strong></td>
-            <td>1 A,<br>1 A-</td>
             <td>2 A-'s</td>
-            <td>2 B-'s</td>
-            <td>2 C-'s</td>
+            <td>2 B+'s</td>
+            <td>2 C+'s</td>
             <td>2 D+'s</td>
+            <td>2 D's</td>
             <td>2 D's</td>
         </tr>
     </tbody>
 </table>
 
-To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences; and you must complete 8 quizzes, 8 responses to secondary readings, 2 creative projects, and earned at least a B- on both the midterm and the final. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
+To achieve a certain grade level, you must complete the listed number of satisfactory assignments or requirements from each of five different categories. For example, if you want a B- for the semester, you must have no more than four unexcused absences; and you must complete 8 quizzes, 8 responses to secondary readings, 2 creative projects, and earned at least a C+ on both the midterm and the final. When you have completed the minimum number of satisfactory assignments for the final grade that you want, you do not need to submit further examples of that assignment type.
 
 Once you have reached either the C- or B- range, you can improve within that letter range (e.g., from a B- to a B or a B+) by meeting the criteria in the next grade level in any one or two of the following categories: quizzes, responses, or creative projects. The completion of one improves your semester grade from a minus to the regular letter; the completion of two improves your semester grade from the regular letter to a plus; the completion of all three moves you to the next letter range if your midterm/final grades and unexcused absence tally allow it. For example, a student in the B- range can move to a B by completing two more quizzes. The student can then improve to a B+ by completing another creative project in addition to completing the quizzes. If the student then completes two more responses AND earns at least an A- on both exams AND has two or fewer unexcused absences, then the student earns an A- for the semester!
 
@@ -157,7 +157,7 @@ All responses should be submitted via the [upload portal](#). <!-- add link -->
 
 There will be **two (2) 50-minute exams** in this course, a midterm that will cover all the Greek topics in the course and a final that will cover all the Roman topics in the course (i.e., the final will not be cumulative). Each will be graded out of 100 points and formatted like larger quizzes (e.g., multiple choice and matching sections) with some modifications (e.g., fill in the blanks with a word bank) and additions (e.g., short answers). The short answers may ask you to compare two passages that we’ve read during the semester, to describe social institutions like marriage or pederasty, etc.
 
-The midterm and final block of the grading contract explains the grades that you need to get in both the midterm and the final to achieve that grade level. So, for example, if you received an A on both the midterm and the final, you are eligible for a semester grade of A; if, however, you received an A on the midterm but a B+ on the final, you are eligible for a semester grade in the B- range (see grading contract above for further details on how all the elements of the contract work together).
+The midterm and final block of the grading contract explains the grades that you need to get in both the midterm and the final to achieve that grade level. So, for example, if you received an A on the midterm and an A- on the final, you are eligible for a semester grade of A; if, however, you received an A on the midterm but a B+ on the final, you are eligible for a semester grade of A-. See the chart above for further details on how all the elements of the contract work together.
 
 The numerical grade of the exam will be converted into a letter grade according to the following guidelines:
 - A = 96-100%; A- = 90-95%  
@@ -203,10 +203,10 @@ All text-based creative projects should be submitted via the [upload portal](#).
 The guidelines for submission of all media-based creative projects are listed under the appropriate headings.
 
 You may submit up to **one (1) creative project per quarter of the course** according to the following deadlines:
-- Creative Project #1: 2/28  
-- Creative Project #2: 3/27  
-- Creative Project #3: 4/24  
-- Creative Project #4: the date of the final exam  
+- Creative Project #1: 2/28, 5pm  
+- Creative Project #2: 3/27, 5pm  
+- Creative Project #3: 4/24, 5pm  
+- Creative Project #4: the date of the final exam, 3 hours after the end time of the final exam  
 
 If you miss a creative project deadline, you will not have the opportunity to make it up later unless you use three tokens, so please plan accordingly and be proactive in informing me if you think you'll miss a deadline.
 
