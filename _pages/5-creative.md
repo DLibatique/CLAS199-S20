@@ -6,7 +6,7 @@ permalink: /creative-projects
 
 [Creative Projects: General Guidelines](grading#creative-projects-general-guidelines)
 
-[Write a Poem](#poem) \| [Artistic Rendering](#art) \| [<em>Eidolon</em> Pitch](#eidolon) \| [Selfie and Object Analysis](#oa) \| [Podcast Lesson](#pod) \| [Video Lesson](#vid) \| [Create a Spotify Playlist](#spotify) \| [Livetweet a Reading](#tweet) \| [Complete Sappho Fragments](#sappho)
+[Write a Poem](#poem) \| [Artistic Rendering](#art) \| [<em>Eidolon</em> Pitch](#eidolon) \| [Selfie and Object Analysis](#oa) \| [Podcast Lesson](#pod) \| [Video Lesson](#vid) \| [Create a Spotify Playlist](#spotify) \| [Livetweet a Reading](#tweet) \| [Complete Sappho Fragments](#sappho) \| [Meme or Tiktok](#meme)
 
 ---
 
@@ -216,4 +216,9 @@ I might fill it out like this:
 A grade of satisfactory will be granted for creative and grammatically-sound completions of the fragments and for adherence to each of the instructions outlined in the document linked above.
 
 <a href="#top" class="underline">Back to top.</a>
-<hr>
+
+***
+
+### <a name="meme">Creative Project 10: Meme or Tiktok Creation</a>
+
+TBD
