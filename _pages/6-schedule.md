@@ -27,7 +27,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Assignments:</p>
 - [Ormand 55-72](#). <!-- add link -->
-- [Thucydides 6.54-59](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59). - Identify the following characters and how they fit into the narrative: Hipparchus, Hippias, Harmodius, Aristogeiton.
+- [Thucydides 6.54-59](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59). - **Identify the following characters and how they fit into the narrative: Hipparchus, Hippias, Harmodius, Aristogeiton.**
 - \* Robson, James. 2013. "[Sexual Unions: Marriage and Domestic Life.](#)" In *Sex and Sexuality in Classical Athens*, 3-35. Edinburgh. <!-- ADD LINK -->
 - \* Robson, James. 2013. “[Same-Sex Relationships.](https://drive.google.com/file/d/1_ExjMvd3RdSnCLDcrPgawoeV1ru40X4V/view?usp=sharing)” In *Sex and Sexuality in Classical Athens*, 36-66. Edinburgh.
 - \* Listen to the [History of Ancient Greece podcast on marriage and domesticity](http://www.thehistoryofancientgreece.com/2018/04/074-marriage-and-domesticity.html) (scroll to the middle of the page for the appropriate play button).
@@ -45,10 +45,11 @@ The readings listed under each week should be completed by the Monday class meet
 <p class="list">Assignments:</p>
 - Ormand 25-34.
 - [Homer, Iliad 18.1-147](https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220) (Achilles laments over Patroclus).
-- [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament). - In what ways are the reaction of Achilles to Patroclus' death similar to the reaction of the Trojans to Hector's death?
+- [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament). - **In what ways are the reaction of Achilles to Patroclus' death [spoiler alert, sorry] similar to the reaction of the Trojans to Hector's death?**
 - [Hesiod, Works & Days 53-105](https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/)
-- [Hesiod, Theogony 565-610](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg001.perseus-eng2:565-610) - How are women characterized in both of Hesiod's accounts? How do the accounts differ?
+- [Hesiod, Theogony 565-610](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg001.perseus-eng2:565-610) - **How are women characterized in both of Hesiod's accounts? How do the accounts differ?**
 - \* Miller, Madeline, [Q&A on *The Song of Achilles*.](http://madelinemiller.com/q-a-the-song-of-achilles/)
+- \* Fantuzzi, Achilles in Love?
 - \* Zuckerberg, Donna. 2016. “[The Breasts that Launched a Thousand Ships (Helen’s face is up here, thanks).](https://eidolon.pub/the-breasts-that-launched-a-thousand-ships-c56b42aec9da)” *Eidolon*.
 
 <p class="list">Optional:</p>
@@ -80,7 +81,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Assignments:</p>
 - Ormand 73-91.
-- Aristophanes *Lysistrata* TBD <!-- insert link -->
+- Aristophanes *Lysistrata* TBD <!-- insert link --> - **What qualities or activities are seen as specific to women or men?**
 - \* Listen to the [History of Ancient Greece podcast on Old Comedy and Aristophanes](http://www.thehistoryofancientgreece.com/2017/09/054-old-comedy-and-aristophanes.html) (scroll to the middle of the page for the appropriate play button).
 - \* Foley, Helene. 2014. “[Performing Gender in Greek Old and New Comedy.](https://drive.google.com/file/d/1aIPTXImQ0Cfyq45F-4wyJmcuARB_c8V_/view?usp=sharing)” In *The Cambridge Companion to Greek Comedy*, edited by Martin Revermann, 259-274. Cambridge.
 - \* Murray, Kourtney. 2018. “[Spinning Out of Hades: A Journey from the Thesmophoria to Spin Class.](https://eidolon.pub/spinning-out-of-hades-6c5891f0412a)” *Eidolon*.
@@ -97,6 +98,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Assignments:</p>
 - Ormand 92-110.
+- Aeschines *Against Timarchus* TBD <!-- add link -->
 - \* Cantarella, Eva. 2005. "[Gender, Sexuality, and Law.](https://drive.google.com/file/d/17-54_nAv2-NSSRxnxAd9vonn-pDden9w/view?usp=sharing)" In *The Cambridge Companion to Ancient Greek Law*, edited by Michael Gagarin and David Cohen, 236-253. Cambridge.
 - \* Robson, James. 2013. "[Sex and the Law: Adultery and Rape.](#)" In *Sex and Sexuality in Classical Athens*, 90-115. Edinburgh. <!-- ADD LINK -->
 - \* Spatharas, Dimos. 2016. "[Sex, Politics, and Disgust in Aechines' *Against Timarchus*.](https://drive.google.com/file/d/17-_zs3_UeJRSHHW2q884t1-moi-ga7el/view?usp=sharing)" In *The Ancient Emotion of Disgust*, edited by Donald Lateiner and Dimos Spatharas, 125-139. Oxford.
