@@ -80,7 +80,7 @@ Once you have reached either the C- or B- range, you can improve within that let
 
 \* The midterm and final are the only elements of the grading contract that I will grade subjectively; see the specific details below under [Midterm and Final Guidelines](#midterm-and-final).
 
-It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. The midterm and final cannot be retaken.
+It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. You are able to make up lost points on the midterm exam or essay; see the appropriate section below. You are not able to retake or revise the final exam or essay.
 
 No late assignments will be accepted without documented permission. I strongly encourage you to be proactive in reaching out to me if you anticipate not being able to make a deadline; it is far preferable to set up a later due date than to ask for an extension after the fact!
 
@@ -147,7 +147,7 @@ Answer the following questions:
 ### Personal Reflection
 If the article speaks to you on a personal level (in terms of lived experience, personality traits, gender or sexual orientation, political affiliation, etc.), what resonates with you? How can you connect the topics or ideas in the article to events, relationships, or beliefs in your own life? (Disclaimer: see “Mandated Reporter” section of Nuts & Bolts in the syllabus.)
 
-All responses should be submitted via the [upload portal](#). <!-- add link -->
+All responses should be submitted via the [upload portal](https://forms.gle/f8Di83KNNAr2eGeW8).
 
 [Back to top.](#top)
 
@@ -159,6 +159,8 @@ There will be **two (2) 50-minute exams** in this course, a midterm that will co
 
 The midterm and final block of the grading contract explains the grades that you need to get in both the midterm and the final to achieve that grade level. So, for example, if you received an A on the midterm and an A- on the final, you are eligible for a semester grade of A; if, however, you received an A on the midterm but a B+ on the final, you are eligible for a semester grade of A-. See the chart above for further details on how all the elements of the contract work together.
 
+On the midterm exam, if you score less than 100, you are able to make up **up to half of the lost points** by completing a revision of your incorrect answers. I will set individualized revision guidelines for each student who decides to complete one. You will not be able to complete revisions or make up lost points on the final exam.
+
 The numerical grade of the exam will be converted into a letter grade according to the following guidelines:
 - A = 96-100%; A- = 90-95%  
 - B+ = 87-89%; B = 84-86%; B- = 80-83%  
@@ -168,7 +170,7 @@ The numerical grade of the exam will be converted into a letter grade according 
 
 Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number.
 
-The midterm will be administered in class on **Friday, March 13**. The final will be administered at a date and time set by the registrar during the Spring 2020 exam period.
+The midterm will be administered in class on **Friday, March 13**. The midterm revisions will be due two weeks later, on **Friday, March 27**. The final will be administered at a date and time set by the registrar during the Spring 2020 exam period.
 
 ### Midterm or Final Alternative: Essay
 
@@ -198,7 +200,7 @@ I will designate a number of possible projects for you to complete that will dra
 
 **You are allowed to submit only one (1) of each type of creative project.** That means that you can, for example, submit a poem, an artwork, a selfie and object analysis, and a Spotify playlist as your four creative projects if you are aiming for a semester grade of A. You cannot submit, for example, four poems or two poems and two artworks.
 
-All text-based creative projects should be submitted via the [upload portal](#). <!-- add link -->
+All text-based creative projects should be submitted via the [upload portal](https://forms.gle/f8Di83KNNAr2eGeW8).
 
 The guidelines for submission of all media-based creative projects are listed under the appropriate headings.
 

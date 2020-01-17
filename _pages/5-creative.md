@@ -19,7 +19,7 @@ The criteria for a grade of satisfactory are as follows:
 2. Your blurb describing the process must be 4-5 sentences long.
 3. Your poem must have a title.
 4. Your poem must adequately capture your chosen poet's diction and style.
-5. Submit the poem and blurb in one file via the [Upload Portal](#).
+5. Submit the poem and blurb in one file via the [Upload Portal](https://forms.gle/f8Di83KNNAr2eGeW8).
 
 The grading rubric for this creative project can be found [here](#).
 
@@ -57,7 +57,7 @@ The criteria for a grade of satisfactory are as follows:
     2. What are at least two examples of primary or secondary sources that you would use in writing about it?
     3. Who is the intended audience for your *Eidolon* piece? The general public? Other college students? People who are knowledgeable about the Roman world? People who know nothing about the Roman world?
 3. The pitch’s length should be about 2-3 pp. double spaced.
-4. Submit the pitch via the [Upload Portal](#).
+4. Submit the pitch via the [Upload Portal](https://forms.gle/f8Di83KNNAr2eGeW8).
 
 The grading rubric for this creative project can be found [here](#).
 
@@ -94,7 +94,7 @@ The criteria for a grade of satisfactory are as follows:
 4. You can use the blurb next to / under each object to help you answer the first few questions. If you can't find an answer, that's fine -- just make sure to say so.
 5. The answers may be formatted either in paragraph/essay form or in bullet points — whatever format enables you to make your points most clearly yet concisely.
 6. There is no page minimum or maximum, though a general guideline of about 2-3pp. double spaced is good to aim for.
-7. Include the selfie in your write-up, and submit the one file via the [Upload Portal](#).
+7. Include the selfie in your write-up, and submit the one file via the [Upload Portal](https://forms.gle/f8Di83KNNAr2eGeW8).
 
 The grading rubric for this creative project can be found [here](#).
 
@@ -164,7 +164,7 @@ The criteria for a grade of satisfactory are as follows:
 6. Add your 4-6 songs to the playlist.
 7. Get a link for the playlist by clicking on the circle with three dots next to the big green "Play" button towards the top of the playlist window > hovering over "Share" > clicking on "Copy Playlist Link."
 8. Paste the link into your document.
-9. Submit the file via the [Upload Portal](#).
+9. Submit the file via the [Upload Portal](https://forms.gle/f8Di83KNNAr2eGeW8).
 
 [Back to top.](#top)
 

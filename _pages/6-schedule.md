@@ -160,6 +160,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
 
 **Quiz #8**: M 3/23  
+**Midterm Revisions**: Due F 3/27 by 1:50pm  
 **Response #8**: Due F 3/27 by 11:59pm
 
 ***
