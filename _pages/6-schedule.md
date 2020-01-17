@@ -18,7 +18,7 @@ The readings listed under each week should be completed by the Monday class meet
 - Read [Ormand 1-24](#). <!-- add link -->
 
 <p class="list">Optional:</p>
-- \* Skinner, Marilyn. 2014... <!-- add full citation and link -->
+- \* Skinner, Marilyn. 2013. "[Introduction: Why Ancient Sexuality? Issues and Approaches.](https://ebookcentral.proquest.com/lib/holycrosscollege-ebooks/detail.action?docID=1295022)" In *Sexuality in Greek and Roman Culture,* 1-23. Hoboken.
 - \* Clarke, Hannah. 2019. "[Queer Classics.](https://eidolon.pub/queer-classics-b84819356f74)" *Eidolon*.
 
 ***
