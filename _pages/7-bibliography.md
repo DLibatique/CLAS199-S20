@@ -4,13 +4,9 @@ title: Bibliography
 permalink: /bibliography
 ---
 
-TBD
+This is a general bibliography for print and electronic sources on gender and sexuality in the ancient world. This list is by no means complete, and I welcome suggestions for additions via [e-mail](https://libatique.info/contact)!
 
-<!--
-
-This is a general bibliography for print and electronic sources on gender and sexuality in the ancient world. This list is by no means complete, and I welcome suggestions for additions via [e-mail](https://dlibatique.github.io/contact/)!
-
-Any piece that may be used for a [response]({{ site.baseurl }}4-grading#responses) is marked with an asterisk (\*). Any entry in this bibliography that is already listed and asterisked in the [course schedule]({{ site.baseurl }}6-schedule) is not asterisked here.
+Any piece that may be used for a [response](grading#response-guidelines) is marked with an asterisk (\*). Any entry in this bibliography that is already listed and asterisked in the [course schedule](schedule) is not asterisked here.
 
 # Greek:
 - Cantarella, Eva. 2005. "Gender, Sexuality, and Law." In *The Cambridge Companion to Ancient Greek Law*, edited by Michael Gagarin and David Cohen, 236-253. Cambridge.
@@ -82,4 +78,3 @@ Any piece that may be used for a [response]({{ site.baseurl }}4-grading#response
 - [History of Ancient Greece podcast: Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
 - [History of Ancient Greece: Marriage and Domesticity](http://www.thehistoryofancientgreece.com/2018/04/074-marriage-and-domesticity.html).
 - [History of Ancient Greece: Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
--->

@@ -109,6 +109,10 @@ p {
   margin-bottom: 1rem;
 }
 
+p.list {
+  margin: 0;
+}
+
 strong {
   color: #303030;
 }
