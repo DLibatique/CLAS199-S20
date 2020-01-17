@@ -80,7 +80,7 @@ Once you have reached either the C- or B- range, you can improve within that let
 
 \* The midterm and final are the only elements of the grading contract that I will grade subjectively; see the specific details below under [Midterm and Final Guidelines](#midterm-and-final).
 
-It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. You are able to make up lost points on the midterm exam or essay; see the appropriate section below. You are not able to retake or revise the final exam or essay.
+It is possible to make up unsatisfactory assignments or requirements. At the beginning of the semester, each student will be allotted **three (3) tokens**. One token can be used to make up an unsatisfactory response or quiz or to subtract 1 from your number of unexcused absences, and three tokens are required for another attempt at an unsatisfactory creative project. You are able to make up lost points on the midterm exam or essay; see the appropriate section below. You are not able to revise the final exam or essay.
 
 No late assignments will be accepted without documented permission. I strongly encourage you to be proactive in reaching out to me if you anticipate not being able to make a deadline; it is far preferable to set up a later due date than to ask for an extension after the fact!
 
@@ -182,10 +182,11 @@ The midterm will be administered in class on **Friday, March 13**. The midterm r
 
 You will be required to draw on at least two primary sources and two secondary sources to write your essay.
 
-Essays will be assigned a letter, rather than a numerical, grade.
+Essays will be assigned a letter, rather than a numerical, grade. You will be able to increase your grade on a midterm essay by up to two stops (e.g., from a B- to a B+ or from a A- to an A) if you complete a revision of your essay according to my corrections, questions, and suggestions. You will not be able to revise a final essay.
 
 **You must opt into writing an essay; otherwise, I will assume that you're taking the exam.** Once you notify me that you'd like to write an essay, I will provide further guidelines.
 - If you'd like to write a midterm essay, you must notify me **by Friday 2/28**, and it will be due **by 1:50pm on March 13**.
+- If you want to complete a revision of a midterm essay, it will be due **by 1:50pm on March 27**.
 - If you'd like to write a final essay, you must notify me **by Friday 4/24**, and it will be due by the end of the class' final exam, whatever time the registrar sets.
 
 [Back to top.](#top)
