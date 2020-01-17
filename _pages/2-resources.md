@@ -10,9 +10,9 @@ permalink: /resources
 - Ormand, Kirk. 2018. [*Controlling Desires: Sexuality in Ancient Greece and Rome, Revised Edition*](https://www.amazon.com/dp/1477311459/ref=cm_sw_em_r_mt_dp_U_efM.Db423NXT8 ). University of Texas Press. ISBN-13: 978-1477311455; ISBN-10: 1477311459.  
 
 ### Other Important Books
-- Robson 
-- Skinner
-- Williams
+- Robson, James. 2013. *Sex and Sexuality in Classical Athens*. Edinburgh. - I have the library's copy in my office!
+- [Skinner, Marilyn. 2013. *Sexuality in Greek and Roman Culture.* Hoboken.](https://ebookcentral.proquest.com/lib/holycrosscollege-ebooks/detail.action?docID=1295022)
+- [Williams, Craig. 1999. *Roman Homosexuality.* Oxford and New York.](https://holycross.idm.oclc.org/login?auth=cas&url=http://hdl.handle.net/2027/heb.01472)
 
 The cost of books should never be a deterrent to participation in a class that you want to take. If you have trouble affording our course textbook, please let me know, and I will work to get you an affordable copy through the resources of the College.  
 
