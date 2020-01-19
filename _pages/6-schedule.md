@@ -13,7 +13,7 @@ The readings listed under each week should be completed by the Monday class meet
 ## Week 1 (1/22, 1/24)- Introduction
 
 <p class="list">Assignments:</p>
-- Read the [grading contract](grading) thoroughly to ensure that you understand all the requirements of the course.
+- Read the [course policies](nuts-and-bolts) and [grading contract](grading) thoroughly to ensure that you understand all the requirements of the course.
 - Fill out this [student information form](https://forms.gle/xM1bcFxPoXQPtEQb6).
 - Read [Ormand 1-24](#). <!-- add link -->
 
