@@ -29,7 +29,7 @@ The readings listed under each week should be completed by the Monday class meet
 - [Ormand 55-72](#). <!-- add link -->
 - [Thucydides 6.54-59](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59). - **Identify the following characters and how they fit into the narrative: Hipparchus, Hippias, Harmodius, Aristogeiton.**
 - \* Robson, James. 2013. "[Sexual Unions: Marriage and Domestic Life.](#)" In *Sex and Sexuality in Classical Athens*, 3-35. Edinburgh. <!-- ADD LINK -->
-- \* Robson, James. 2013. “[Same-Sex Relationships.](https://drive.google.com/file/d/1_ExjMvd3RdSnCLDcrPgawoeV1ru40X4V/view?usp=sharing)” In *Sex and Sexuality in Classical Athens*, 36-66. Edinburgh.
+- \* Robson 2013, 36-66, “[Same-Sex Relationships.](https://drive.google.com/file/d/1_ExjMvd3RdSnCLDcrPgawoeV1ru40X4V/view?usp=sharing).”
 - \* Listen to the [History of Ancient Greece podcast on marriage and domesticity](http://www.thehistoryofancientgreece.com/2018/04/074-marriage-and-domesticity.html) (scroll to the middle of the page for the appropriate play button).
 
 <p class="list">Optional:</p>
@@ -63,8 +63,8 @@ The readings listed under each week should be completed by the Monday class meet
 ## Week 4 (2/10, 2/12, 2/14) - Greek Elegy and Lyric and the Symposium
 
 - Ormand 34-54.
-- [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York.
-- [Archilochus, Cologne Epode](https://diotima-doctafemina.org/translations/greek/archilochos-the-cologne-epode/archilochos-p-colon-7511/)
+- [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York. - **What is the dramatic situation in each of these poems? Who are the characters, and how do they relate?**
+- [Archilochus, Cologne Epode](https://diotima-doctafemina.org/translations/greek/archilochos-the-cologne-epode/archilochos-p-colon-7511/) - **Same questions as for Sappho: who are the characters involved, and how do they relate? What's happening in this poem?**
 - \* Murcia, Francesco Javier. 2017. "[Wine, Women, and Wisdom: The Symposia of Ancient Greece.](https://www.nationalgeographic.com/history/magazine/2017/01-02/ancient-greece-symposium-dinner-party/)" *National Geographic History*. -- Make sure to keep scrolling past each photo that divides the article into sections until you've read the whole piece! There are a lot of false ends.
 - \* Haselswerdt, Ella. 2016. “[Re-Queering Sappho.](https://eidolon.pub/re-queering-sappho-c6c05b6b9f0b)” *Eidolon*.
 
@@ -98,9 +98,10 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Assignments:</p>
 - Ormand 92-110.
+- \* Robson 2013, 67-89, "[Prostitution](#)." <!-- add link -->
+- \* Robson 2013, 90-115, "[Sex and the Law: Adultery and Rape](#)." <!-- add link -->
 - Aeschines *Against Timarchus* TBD <!-- add link -->
 - \* Cantarella, Eva. 2005. "[Gender, Sexuality, and Law.](https://drive.google.com/file/d/17-54_nAv2-NSSRxnxAd9vonn-pDden9w/view?usp=sharing)" In *The Cambridge Companion to Ancient Greek Law*, edited by Michael Gagarin and David Cohen, 236-253. Cambridge.
-- \* Robson, James. 2013. "[Sex and the Law: Adultery and Rape.](#)" In *Sex and Sexuality in Classical Athens*, 90-115. Edinburgh. <!-- ADD LINK -->
 - \* Spatharas, Dimos. 2016. "[Sex, Politics, and Disgust in Aechines' *Against Timarchus*.](https://drive.google.com/file/d/17-_zs3_UeJRSHHW2q884t1-moi-ga7el/view?usp=sharing)" In *The Ancient Emotion of Disgust*, edited by Donald Lateiner and Dimos Spatharas, 125-139. Oxford.
 
 <p class="list">Optional:</p>
