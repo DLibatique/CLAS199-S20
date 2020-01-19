@@ -15,10 +15,10 @@ The readings listed under each week should be completed by the Monday class meet
 <p class="list">Assignments:</p>
 - Read the [course policies](nuts-and-bolts) and [grading contract](grading) thoroughly to ensure that you understand all the requirements of the course.
 - Fill out this [student information form](https://forms.gle/xM1bcFxPoXQPtEQb6).
-- Read [Ormand 1-24](#). <!-- add link -->
+- Read [Ormand 1-24](https://drive.google.com/file/d/11imJVwxHFgirRM0qkc0F112fUI2ppeTQ/view?usp=sharing).
 
 <p class="list">Optional:</p>
-- \* Skinner, Marilyn. 2013. "[Introduction: Why Ancient Sexuality? Issues and Approaches.](https://ebookcentral.proquest.com/lib/holycrosscollege-ebooks/detail.action?docID=1295022)" In *Sexuality in Greek and Roman Culture,* 1-23. Hoboken.
+- \* Skinner, Marilyn. 2013. "[Introduction: Why Ancient Sexuality? Issues and Approaches.](https://drive.google.com/file/d/11ebrIR08Ip-ao9s8aGFStEhe9GXWxmMA/view?usp=sharing)" In *Sexuality in Greek and Roman Culture,* 1-28. Hoboken.
 - \* Clarke, Hannah. 2019. "[Queer Classics.](https://eidolon.pub/queer-classics-b84819356f74)" *Eidolon*.
 
 ***
@@ -26,9 +26,9 @@ The readings listed under each week should be completed by the Monday class meet
 ## Week 2 (1/27, 1/29, 1/31) - Greek Social Structures and Constructions: Gender Roles, Marriage, Divorce, Pederasty
 
 <p class="list">Assignments:</p>
-- [Ormand 55-72](#). <!-- add link -->
+- [Ormand 55-72](https://drive.google.com/file/d/11tpFBAbLnUGhK94NrIbwUqZkUqZNdv6w/view?usp=sharing).
 - [Thucydides 6.54-59](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59). - **Identify the following characters and how they fit into the narrative: Hipparchus, Hippias, Harmodius, Aristogeiton.**
-- \* Robson, James. 2013. "[Sexual Unions: Marriage and Domestic Life.](#)" In *Sex and Sexuality in Classical Athens*, 3-35. Edinburgh. <!-- ADD LINK -->
+- \* Robson, James. 2013. "[Sexual Unions: Marriage and Domestic Life.](https://drive.google.com/file/d/11x7hf6mV8S1i5Yfrbb0PI49rA-Bk3INL/view?usp=sharing)" In *Sex and Sexuality in Classical Athens*, 3-35. Edinburgh.
 - \* Robson 2013, 36-66, “[Same-Sex Relationships.](https://drive.google.com/file/d/1_ExjMvd3RdSnCLDcrPgawoeV1ru40X4V/view?usp=sharing).”
 - \* Listen to the [History of Ancient Greece podcast on marriage and domesticity](http://www.thehistoryofancientgreece.com/2018/04/074-marriage-and-domesticity.html) (scroll to the middle of the page for the appropriate play button).
 
@@ -43,7 +43,7 @@ The readings listed under each week should be completed by the Monday class meet
 ## Week 3 (2/3, 2/5, 2/7) - Greek Epic
 
 <p class="list">Assignments:</p>
-- Ormand 25-34.
+- [Ormand 25-34](https://drive.google.com/file/d/11wAAjitUiysJo4-B3L68o5XljMyFrXLo/view?usp=sharing).
 - [Homer, Iliad 18.1-147](https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220) (Achilles laments over Patroclus).
 - [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament). - **In what ways are the reaction of Achilles to Patroclus' death [spoiler alert, sorry] similar to the reaction of the Trojans to Hector's death?**
 - [Hesiod, Works & Days 53-105](https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/)
@@ -62,7 +62,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 4 (2/10, 2/12, 2/14) - Greek Elegy and Lyric and the Symposium
 
-- Ormand 34-54.
+- [Ormand 34-54](https://drive.google.com/file/d/11wAAjitUiysJo4-B3L68o5XljMyFrXLo/view?usp=sharing).
 - [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York. - **What is the dramatic situation in each of these poems? Who are the characters, and how do they relate?**
 - [Archilochus, Cologne Epode](https://diotima-doctafemina.org/translations/greek/archilochos-the-cologne-epode/archilochos-p-colon-7511/) - **Same questions as for Sappho: who are the characters involved, and how do they relate? What's happening in this poem?**
 - \* Murcia, Francesco Javier. 2017. "[Wine, Women, and Wisdom: The Symposia of Ancient Greece.](https://www.nationalgeographic.com/history/magazine/2017/01-02/ancient-greece-symposium-dinner-party/)" *National Geographic History*. -- Make sure to keep scrolling past each photo that divides the article into sections until you've read the whole piece! There are a lot of false ends.
