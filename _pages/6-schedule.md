@@ -110,7 +110,8 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Listen to the [History of Ancient Greece podcast on Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
 
 **Quiz #5**: M 2/24  
-**Response #5**: Due F 2/28 by 11:59pm
+**Creative Project #1**: Due F 2/28 by 5pm  
+**Response #5**: Due F 2/28 by 11:59pm  
 
 ***
 
@@ -163,6 +164,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 **Quiz #8**: M 3/23  
 **Midterm Revisions**: Due F 3/27 by 1:50pm  
+**Creative Project #2**: Due F 3/27 by 5pm
 **Response #8**: Due F 3/27 by 11:59pm
 
 ***
@@ -224,6 +226,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* "[The Leda Fresco -- Rape or Romp?](https://eidolon.pub/the-leda-fresco-rape-or-romp-86c62f72a864)" *Eidolon*.
 
 **Quiz #11**: M 4/20  
+**Creative Project #3**: Due F 4/24 by 5pm  
 **Response #11**: Due F 4/24 by 11:59pm
 
 ***
@@ -255,6 +258,9 @@ The readings listed under each week should be completed by the Monday class meet
 ## STUDY PERIOD: 5/5 through 5/6
 
 ## EXAM PERIOD: 5/7 through 5/13
+
+**Final Exam**: Date and time TBD  
+**Creative Project #4**: Due the date of the final exam, 3 hours after teh end of the final exam
 
 
 <!--
