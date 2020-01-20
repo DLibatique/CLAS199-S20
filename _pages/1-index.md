@@ -6,7 +6,7 @@ permalink: /
 
 ## Course Information
 **Meeting Time:** MWF 1-1:50pm  
-**Meeting Place:** TBD  
+**Meeting Place:** Stein 314  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 426  
 **Office hours:** MW 2-4pm, or by appointment  
