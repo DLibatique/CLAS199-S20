@@ -66,7 +66,7 @@ If you are already registered with Accessibility Services, please be sure to get
 ## External Resources
 In addition to my e-mail and student hours, there are resources outside myself and the Classics department, like [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) and the [Center for Writing](https://www.holycross.edu/academics/support-and-resources/center-for-writing/writers-workshop/make-appointment) that can help with assignments or your progress through the course in general. Please also note that our Classics librarian, Ms. Jennifer Whelan, MLIS, is a great resource for research, citations, and other needs that relate to your assignments. Remember, there is no such thing as a stupid question.
 
-By the way, to test whether you’re reading the syllabus all the way through, please send me an e-mail with a photo of your favorite Greek or Roman monument in the e-mail body by 1pm on Monday, January 27, 2020, with the subject line “Achilles and Hector were ARCH-enemies.” If you do so, you will receive two (2) extra credit points on any quiz of your choice throughout the semester.
+By the way, to test whether you’re reading the syllabus all the way through, please send me an e-mail with a photo of your favorite Greek or Roman monument in the e-mail body by 1pm on Wednesday, January 29, 2020, with the subject line “Achilles and Hector were ARCH-enemies.” If you do so, you will receive two (2) extra credit points on any quiz of your choice throughout the semester.
 
 [Back to top.](#top)
 
