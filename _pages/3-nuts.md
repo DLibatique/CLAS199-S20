@@ -4,8 +4,7 @@ title: Nuts & Bolts
 permalink: /nuts-and-bolts
 ---
 
-<!-- add link to Google Doc syllabus when created -->
-Click [here](#) to access the syllabus as a Google Doc.
+Click [here](https://docs.google.com/document/d/1ceEItO6e1c3NUniKg6a-pdNPdVuiwpPnP-lrb3VwTvY/edit?usp=sharing) to access the syllabus as a Google Doc.
 
 ---
 

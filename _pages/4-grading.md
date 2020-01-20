@@ -4,6 +4,10 @@ title: Grading
 permalink: /grading
 ---
 
+Click [here](https://docs.google.com/document/d/1beGqwSmRJ_181i8rOAdbnwDne1ObxbT2acqyIhNrDlI/edit?usp=sharing) to access the grading contract as a Google Doc.
+
+***
+
 [Grading Contract](#grading-contract) \| [Absence Policy](#absence-policy) \|
 Guidelines: [Quizzes](#quiz-guidelines) \| [Responses](#response-guidelines) \| [Midterm and Final](#midterm-and-final) \| [Midterm or Final Alternative: Essay](#midterm-or-final-alternative-essay) \| [Creative Projects](#creative-projects-general-guidelines)
 
