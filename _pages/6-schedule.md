@@ -20,6 +20,7 @@ The readings listed under each week should be completed by the Monday class meet
 <p class="list">Optional:</p>
 - \* Skinner, Marilyn. 2013. "[Introduction: Why Ancient Sexuality? Issues and Approaches.](https://drive.google.com/file/d/11ebrIR08Ip-ao9s8aGFStEhe9GXWxmMA/view?usp=sharing)" In *Sexuality in Greek and Roman Culture,* 1-28. Hoboken.
 - \* Clarke, Hannah. 2019. "[Queer Classics.](https://eidolon.pub/queer-classics-b84819356f74)" *Eidolon*.
+- \* Gillies, Grace. 2017. "[The Body in Question.](https://eidolon.pub/the-body-in-question-d28045d23714)" *Eidolon*.
 
 ***
 
