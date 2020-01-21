@@ -12,6 +12,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 1 (1/22, 1/24)- Introduction
 
+**Slideshow**: [link here](https://docs.google.com/presentation/d/1i0y4eE3EyCtAwNBivQrewi6xNAtGmgeHZYqSYgoHhNQ/edit?usp=sharing)
+
 <p class="list">Assignments:</p>
 - Read the [course policies](nuts-and-bolts) and [grading contract](grading) thoroughly to ensure that you understand all the requirements of the course.
 - Fill out this [student information form](https://forms.gle/xM1bcFxPoXQPtEQb6).
