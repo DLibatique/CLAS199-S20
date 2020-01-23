@@ -19,6 +19,8 @@ The cost of books should never be a deterrent to participation in a class that y
 ***
 
 ## Electronic Resources
+[LibGuide](https://libguides.holycross.edu/ancientgendersexuality) - Our awesome Classics librarian, Mrs. Jennifer Whelan MLIS, has put together a page of resources to help us navigate the various types of sources and information that we'll be dealing with in this course. Check it out!
+
 [Cornell notes example](https://alisoninnes.files.wordpress.com/2017/10/cornell-notes-quick-dirty-guide.pdf) - A note-taking method suggested by [Alison Innes](https://twitter.com/alisoninnes) that may help you organize your notes and thoughts throughout lecture more easily.  
 - [Cornell notes template](https://alisoninnes.files.wordpress.com/2018/01/template-for-cornell-notes-unlined1.pdf)
 
