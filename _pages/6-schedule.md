@@ -28,6 +28,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 2 (1/27, 1/29, 1/31) - Greek Social Structures and Constructions: Gender Roles, Marriage, Divorce, Pederasty
 
+**Complete [this library pre-instruction survey](https://goo.gl/forms/HiA7b5oR7HWzmR7U2) by class on M 1/27!**
+
 <p class="list">Assignments:</p>
 - [Ormand 55-72](https://drive.google.com/file/d/11tpFBAbLnUGhK94NrIbwUqZkUqZNdv6w/view?usp=sharing).
 - [Thucydides 6.54-59](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59). - **Identify the following characters and how they fit into the narrative: Hipparchus, Hippias, Harmodius, Aristogeiton.**
