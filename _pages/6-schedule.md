@@ -29,6 +29,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 2 (1/27, 1/29, 1/31) - Greek Social Structures and Constructions: Gender Roles, Marriage, Divorce, Pederasty
 
+**Slideshow**: [link here](https://docs.google.com/presentation/d/1cKIkFi3L0escEzCqjoEFqW4khFVrtvVGRk_PWNHhLxo/edit?usp=sharing)
+
 **Complete [this library pre-instruction survey](https://goo.gl/forms/HiA7b5oR7HWzmR7U2) by class on M 1/27!**
 
 <p class="list">Assignments:</p>
