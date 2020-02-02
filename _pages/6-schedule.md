@@ -50,6 +50,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 3 (2/3, 2/5, 2/7) - Greek Epic
 
+**Slideshow**: [link here](https://docs.google.com/presentation/d/1otKGQgg3JZ2ocC1iocv4MzgkQ_ZzUvQGmBcuNEY1OZU/edit?usp=sharing)
+
 <p class="list">Assignments:</p>
 - [Ormand 25-34](https://drive.google.com/file/d/11wAAjitUiysJo4-B3L68o5XljMyFrXLo/view?usp=sharing).
 - [Homer, Iliad 18.1-147](https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220) (Achilles laments over Patroclus).
@@ -57,7 +59,6 @@ The readings listed under each week should be completed by the Monday class meet
 - [Hesiod, Works & Days 53-105](https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/)
 - [Hesiod, Theogony 565-610](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg001.perseus-eng2:565-610) - **How are women characterized in both of Hesiod's accounts? How do the accounts differ?**
 - \* Miller, Madeline, [Q&A on *The Song of Achilles*.](http://madelinemiller.com/q-a-the-song-of-achilles/)
-- \* Fantuzzi, Achilles in Love?
 - \* Zuckerberg, Donna. 2016. “[The Breasts that Launched a Thousand Ships (Helen’s face is up here, thanks).](https://eidolon.pub/the-breasts-that-launched-a-thousand-ships-c56b42aec9da)” *Eidolon*.
 
 <p class="list">Optional:</p>
