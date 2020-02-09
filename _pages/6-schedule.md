@@ -71,6 +71,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 4 (2/10, 2/12, 2/14) - Greek Elegy and Lyric and the Symposium
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1LEAUBnlyWP59Zow7RGNMBpiekS55E6Xale1iI11I8Nw/edit?usp=sharing).
+
 - [Ormand 34-54](https://drive.google.com/file/d/11wAAjitUiysJo4-B3L68o5XljMyFrXLo/view?usp=sharing).
 - [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York. - **What is the dramatic situation in each of these poems? Who are the characters, and how do they relate?**
 - [Archilochus, Cologne Epode](https://diotima-doctafemina.org/translations/greek/archilochos-the-cologne-epode/archilochos-p-colon-7511/) - **Same questions as for Sappho: who are the characters involved, and how do they relate? What's happening in this poem?**
