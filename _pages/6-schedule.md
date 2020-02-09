@@ -74,7 +74,7 @@ The readings listed under each week should be completed by the Monday class meet
 - [Ormand 34-54](https://drive.google.com/file/d/11wAAjitUiysJo4-B3L68o5XljMyFrXLo/view?usp=sharing).
 - [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York. - **What is the dramatic situation in each of these poems? Who are the characters, and how do they relate?**
 - [Archilochus, Cologne Epode](https://diotima-doctafemina.org/translations/greek/archilochos-the-cologne-epode/archilochos-p-colon-7511/) - **Same questions as for Sappho: who are the characters involved, and how do they relate? What's happening in this poem?**
-- \* Murcia, Francesco Javier. 2017. "[Wine, Women, and Wisdom: The Symposia of Ancient Greece.](https://www.nationalgeographic.com/history/magazine/2017/01-02/ancient-greece-symposium-dinner-party/)" *National Geographic History*. -- Make sure to keep scrolling past each photo that divides the article into sections until you've read the whole piece! There are a lot of false ends.
+- \* Murcia, Francesco Javier. 2017. "[Wine, Women, and Wisdom: The Symposia of Ancient Greece.](https://drive.google.com/file/d/1-6BmZAlSdLlKEiJkQN3v2zsKEZshqrzk/view?usp=sharing)" *National Geographic History*.
 - \* Haselswerdt, Ella. 2016. “[Re-Queering Sappho.](https://eidolon.pub/re-queering-sappho-c6c05b6b9f0b)” *Eidolon*.
 
 <p class="list">Optional:</p>
