@@ -9,9 +9,9 @@ permalink: /
 **Meeting Place:** Stein 314  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 426  
-**Office hours:** MW 2-4pm, or by appointment  
+**Office hours:** M 2-4pm, W 3-5pm, or by appointment  
 **E-mail:** dlibatiq [at] holycross.edu  
-**Website:** [Click here.](https://dlibatique.github.io)
+**Website:** [Click here.](https://libatique.info)
 
 In this course, we will analyze and engage with ancient Greco-Roman works of literature and art to reconstruct how the Greeks and Romans conceptualized gender and sexuality. We will use these investigations as a way to analyze our own modern conceptions of gender and sexuality and understand how issues of legality and morality are necessarily renegotiated from culture to culture and time period to time period.
 
