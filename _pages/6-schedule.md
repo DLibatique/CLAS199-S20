@@ -92,7 +92,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Assignments:</p>
 - Ormand 73-91.
-- Aristophanes *Lysistrata* TBD <!-- insert link --> - **What qualities or activities are seen as specific to women or men?**
+- [Aristophanes *Lysistrata* Agon](https://docs.google.com/document/d/1Opry-2SugKcNz0AdaA-YwofttB8kcaTIxTSy9dl6AmU/edit?usp=sharing) - **What qualities or activities are seen as specific to women or men?**
 - \* Listen to the [History of Ancient Greece podcast on Old Comedy and Aristophanes](http://www.thehistoryofancientgreece.com/2017/09/054-old-comedy-and-aristophanes.html) (scroll to the middle of the page for the appropriate play button).
 - \* Foley, Helene. 2014. “[Performing Gender in Greek Old and New Comedy.](https://drive.google.com/file/d/1aIPTXImQ0Cfyq45F-4wyJmcuARB_c8V_/view?usp=sharing)” In *The Cambridge Companion to Greek Comedy*, edited by Martin Revermann, 259-274. Cambridge.
 - \* Murray, Kourtney. 2018. “[Spinning Out of Hades: A Journey from the Thesmophoria to Spin Class.](https://eidolon.pub/spinning-out-of-hades-6c5891f0412a)” *Eidolon*.
