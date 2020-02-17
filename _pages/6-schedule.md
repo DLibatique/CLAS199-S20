@@ -90,6 +90,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 5 (2/17, 2/19, 2/21) - Greek Comedy
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/16xZZHiC6gDeqMNvSe8eSeM0XB-Sj-O4JS-Ds8fdetNE/edit?usp=sharing)
+
 <p class="list">Assignments:</p>
 - Ormand 73-91.
 - [Aristophanes *Lysistrata* Agon](https://docs.google.com/document/d/1Opry-2SugKcNz0AdaA-YwofttB8kcaTIxTSy9dl6AmU/edit?usp=sharing) - **What qualities or activities are seen as specific to women or men?**
