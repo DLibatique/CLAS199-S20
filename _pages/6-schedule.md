@@ -90,7 +90,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 5 (2/17, 2/19, 2/21) - Greek Comedy
 
-**Slideshow**: link [here](https://docs.google.com/presentation/d/16xZZHiC6gDeqMNvSe8eSeM0XB-Sj-O4JS-Ds8fdetNE/edit?usp=sharing)
+**Slideshow**: link [here](https://docs.google.com/presentation/d/16xZZHiC6gDeqMNvSe8eSeM0XB-Sj-O4JS-Ds8fdetNE/edit?usp=sharing)  
+**Panopto Lecture for F 2/21**: link [here](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3d582829-4444-4506-986b-ab66017e8c95)
 
 <p class="list">Assignments:</p>
 - Ormand 73-91.
