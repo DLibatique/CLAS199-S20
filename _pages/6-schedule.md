@@ -112,9 +112,9 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Assignments:</p>
 - Ormand 92-110.
-- \* Robson 2013, 67-89, "[Prostitution](#)." <!-- add link -->
-- \* Robson 2013, 90-115, "[Sex and the Law: Adultery and Rape](#)." <!-- add link -->
-- Aeschines *Against Timarchus* TBD <!-- add link -->
+- \* Robson 2013, 67-89, "[Prostitution](https://drive.google.com/file/d/11qDZUX77X40YBu5INdIsEtUocalSO178/view?usp=sharing)."
+- \* Robson 2013, 90-115, "[Sex and the Law: Adultery and Rape](https://drive.google.com/file/d/1-Tx7HVMdC3q_ExJtMfT7C0pGKapRqoYq/view?usp=sharing)."
+- [Aeschines *Against Timarchus*](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&query=Aeschin.%201.3&getid=1). Read as much as you can to get a sense of Aeschines' argumentation and rhetorical style. Note what he uses as evidence or the ways in which he tries to assassinate the character of Timarchus.
 - \* Cantarella, Eva. 2005. "[Gender, Sexuality, and Law.](https://drive.google.com/file/d/17-54_nAv2-NSSRxnxAd9vonn-pDden9w/view?usp=sharing)" In *The Cambridge Companion to Ancient Greek Law*, edited by Michael Gagarin and David Cohen, 236-253. Cambridge.
 - \* Spatharas, Dimos. 2016. "[Sex, Politics, and Disgust in Aechines' *Against Timarchus*.](https://drive.google.com/file/d/17-_zs3_UeJRSHHW2q884t1-moi-ga7el/view?usp=sharing)" In *The Ancient Emotion of Disgust*, edited by Donald Lateiner and Dimos Spatharas, 125-139. Oxford.
 
