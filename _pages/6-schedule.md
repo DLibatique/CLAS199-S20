@@ -110,6 +110,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 6 (2/24, 2/26, 2/28) - Greek Oratory and Law
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1-bsS2wyeuBWGooKatJABpw1lAUYgpfQ-ZuoWB2_uII0/edit?usp=sharing)
+
 <p class="list">Assignments:</p>
 - Ormand 92-110.
 - \* Robson 2013, 67-89, "[Prostitution](https://drive.google.com/file/d/11qDZUX77X40YBu5INdIsEtUocalSO178/view?usp=sharing)."
