@@ -193,6 +193,8 @@ Essays will be assigned a letter, rather than a numerical, grade. You will be ab
 - If you want to complete a revision of a midterm essay, it will be due **by 1:50pm on March 27**.
 - If you'd like to write a final essay, you must notify me **by Friday 4/24**, and it will be due by the end of the class' final exam, whatever time the registrar sets.
 
+[Guidelines for writing an essay can be found here](essay).
+
 [Back to top.](#top)
 
 ---
