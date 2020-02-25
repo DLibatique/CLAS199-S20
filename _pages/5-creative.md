@@ -12,7 +12,7 @@ permalink: /creative-projects
 
 ## <a name="poem">Creative Project 1: Write a Poem.</a>
 
-[Review this set of four poems from Greek and Latin poets on themes of love, sex, and gender](https://drive.google.com/file/d/1SoLvgUvkIcJefDO0OklxWjnosyiPiTAv/view?usp=sharing). Your goal in this creative project is to choose one author and **write a poem of 30-40 lines about gender or sexuality in their style, capturing their essence by using similar diction, poetic structure, and themes; also, write a short (4-5 sentence) blurb on your process -- how did you go about capturing the author's essence?** The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona! You may also choose a poem or a selection of verse from another work or author that we've considered throughout the semester, but I recommend that you run your choice by me first before attempting your own poem.
+[Review this set of four poems from Greek and Latin poets on themes of love, sex, and gender](https://docs.google.com/document/d/1XaLN8h7QFFfnXFIGMPFI5OPM5bMVtMElwwgaKN1KHEs/edit?usp=sharing). Your goal in this creative project is to choose one author and **write a poem of 30-40 lines about gender or sexuality in their style, capturing their essence by using similar diction, poetic structure, and themes; also, write a short (4-5 sentence) blurb on your process -- how did you go about capturing the author's essence?** The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona! You may also choose a poem or a selection of verse from another work or author that we've considered throughout the semester, but I recommend that you run your choice by me first before attempting your own poem.
 
 The criteria for a grade of satisfactory are as follows:
 1. The poem must be 30-40 lines long.
@@ -201,7 +201,7 @@ The grading rubric for this creative project can be found [here](https://drive.g
 
 ### <a name="sappho">Creative Project 9: Complete the Fragments of Sappho.</a>
 
-This creative project concerns the Archaic female poet Sappho, whose poetry remains for us only in fragments. [Take a look at this set of four of Sappho's fragments.](#) Your goal is to **fill in the lacunae (or missing gaps) based on the themes of Sappho’s more complete fragments**.
+This creative project concerns the Archaic female poet Sappho, whose poetry remains for us only in fragments. [Take a look at this set of four of Sappho's fragments.](https://docs.google.com/document/d/1IOD_o9kFkbP5N-2l01Az4gdKbttNt6nu1aO6RrVPpC4/edit?usp=sharing) Your goal is to **fill in the lacunae (or missing gaps) based on the themes of Sappho’s more complete fragments**.
 
 For example, if faced with a fragment like this (Sappho 29C):
 
