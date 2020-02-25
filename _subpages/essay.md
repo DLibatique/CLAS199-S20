@@ -42,8 +42,10 @@ If you are unsure whether a secondary source is acceptable, please ask!
   5. Clear stages of argument / reflection?
   6. Works cited page with comprehensible entries?
 
-6. I am not requiring your citations to be in any specific format, as long as you are consistent throughout your paper. See [this link] for sample citations. For primary sources, the entry must include at least an author name (if known), the title of the work (if provided), and subsection identifiers (line numbers, poem numbers, paragraph or book numbers, etc.). Often, the parenthetical citation after primary sources in Ormand will suffice. For secondary sources, make sure to include as many details as are necessary to allow me to trace your steps. If your citation doesn’t have enough information to let me track down the quote or paraphrase in question, then it is not “comprehensible.”
+6. I am not requiring your citations to be in any specific format, as long as you are consistent throughout your paper. See [this link](citations) for sample citations.
 
-7. I’m happy to read paper drafts, but I will have a strict cut off at 5pm on Tu 5/7: you
-may not submit a draft after that time. This is to ensure that I’ll have enough time to give
-useful feedback for final drafts before the essay due date on F 5/10 at 5pm.
+For primary sources, the entry must include at least an author name (if known), the title of the work (if provided), and subsection identifiers (line numbers, poem numbers, paragraph or book numbers, etc.). Often, the parenthetical citation after primary sources in Ormand will suffice.
+
+For secondary sources, make sure to include as many details as are necessary to allow me to trace your steps. If your citation doesn’t have enough information to let me track down the quote or paraphrase in question, then it is not “comprehensible.”
+
+7. I’m happy to read paper drafts, but I will have a strict cut off **at 5pm on T 3/10** for midterm essays and a similar length of time before the final essay deadline: you may not submit a draft after that time. This is to ensure that I’ll have enough time to give useful feedback for final drafts before each essay's due date.
