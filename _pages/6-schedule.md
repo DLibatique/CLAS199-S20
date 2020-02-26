@@ -124,6 +124,7 @@ The readings listed under each week should be completed by the Monday class meet
 <p class="list">Optional:</p>
 - \* Herz, Zachary. 2015. “[Law v. History: the story of the Supreme Court’s misguided, forty-year fixation on ancient gay history.](https://eidolon.pub/law-v-history-2ccfc296ca80)” *Eidolon*.
 - \* Listen to the [History of Ancient Greece podcast on Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
+- \* Bond, Sarah. 2019. "[Consider the Anus Radish: Etymologies, Adultery, and the Defense of the Microhistory.](https://sarahemilybond.com/2019/07/13/consider-the-anus-radish-etymologies-adultery-and-the-defense-of-the-microhistory/)" Scholarly Blog.
 
 **Quiz #5**: M 2/24  
 **Creative Project #1**: Due F 2/28 by 5pm  
