@@ -83,10 +83,10 @@ The criteria for a grade of satisfactory are as follows:
     - **Portrait of a Roman Matron** (also in the Roman room)
     - **Funerary Monument of a Greek Warrior** (directly left of the Worcester Hunt mosaic when facing away from the Salisbury St. entrance/exit)
     - **Small Container (Pyxis) with Lid** (in the Greek room; from the Salisbury St. entrance, face the Worcester Hunt mosaic; take the steps up directly across the mosaic and pass the Egypt room until you find the Greek room on the right. The *pyxis* is in a glass case to the left from the entrance.)
-2. Choose an object in that room and take a selfie with it.
-3. Take a selfie with your located object.
+2. Take a selfie with your located object.
+3. Write a short essay that answers the following questions:
     1. What is your object?
-    2. Describe the physical characteristics of your object. If it is a statue of a human figure, what are they wearing? What is their body position? If the gravestone, what elements are visible besides the body? If the *pyxis*, what is or who are depicted on each part of it?
+    2. Describe the physical characteristics of your object. If it is a statue of a human or divine figure, what are they wearing? What is their body position? If the gravestone, what elements are visible besides the body? If the *pyxis*, what is or who are depicted on each part of it?
     3. When was it made? (Century of creation is fine if there is no more specific information available than that.)
     4. What material is it made out of?
     5. Where was it originally displayed?
