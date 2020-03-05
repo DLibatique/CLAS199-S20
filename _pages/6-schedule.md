@@ -157,7 +157,7 @@ The readings listed under each week should be completed by the Monday class meet
 <p class="list">Assignments:</p>
 - Ormand 182-201.
 - \* Walters, Jonathan. 1997. "[Invading the Roman Body: Manliness and Impenetrability in Roman Thought.](https://drive.google.com/file/d/16TtKhHiHvdQ4uxnM_BwXvRvsAUg7Ijij/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 29-43. Princeton.
-- \* Williams, Craig. 1999. "Sexual Roles and Identities." In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 160-224. New York and Oxford. <!-- ??? -->
+- \* Williams, Craig. 1999. "[Sexual Roles and Identities.](https://drive.google.com/file/d/1-gGv0eCkTxVaYnIVTKUQ-y6Df0qyE9Or/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 160-224. New York and Oxford. <!-- ??? -->
 - \* Oktaba, Nikolas. 2017. "[Dick Pics, Ancient and Modern.](https://eidolon.pub/dick-pics-ancient-and-modern-ed544e35b02d)" *Eidolon*.
 
 <p class="list">Optional:</p>
@@ -171,16 +171,16 @@ The readings listed under each week should be completed by the Monday class meet
 ## Week 9 (3/23, 3/25, 3/27) - The Body Female and the Body Politic
 
 <p class="list">Assignments:</p>
-- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
+- Livy [1.9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D9) and [1.13](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D13) on the Rape of the Sabines (**CW: rape**) -- **How are the Sabine women portrayed in their abduction and the eventual reconciliation of the Romans and Sabines?**
+- Livy [1.57-60](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D57) on Lucretia (use the right arrow at the top left of the passage to advance through the chapters) -- **How is Lucretia portrayed? How is Sextus Tarquinius portrayed?**
 - \* Kenty, Joanna. 2017. “[Avenging Lucretia: From Rape to Revolution.](https://eidolon.pub/avenging-lucretia-dd14e936840c)” *Eidolon*. **CW**: rape.
-- \* Joshel
-- <!-- piece on Rhea Silvia? Livy? -->
+- \* Joshel, S.R. 2002. "[The Body Female and the Body Politic: Livy's Lucretia and Verginia.](https://drive.google.com/file/d/1-gVjTJPDufUYFnCWYSJq-TD6VSz2cr2v/view?usp=sharing)" In *Sexuality and Gender in the Classical World: Readings and Sources*, edited by Laura McClure, 163-190. Malden (MA) and Oxford.
 
 <p class="list">Optional:</p>
 - \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
 
 **Quiz #8**: M 3/23  
-**Midterm Revisions**: Due F 3/27 by 1:50pm  
+**Midterm Essay Revisions**: Due F 3/27 by 1:50pm  
 **Creative Project #2**: Due F 3/27 by 5pm
 **Response #8**: Due F 3/27 by 11:59pm
 
@@ -193,9 +193,10 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Williams, Craig. 1999. "[The Concept of *Stuprum*.](https://drive.google.com/file/d/1xsF15s9r8Ekp2XX8IfXVd0VwLVXIQ1t1/view?usp=sharing)" In *Roman Homosexuality*, 96-124. New York and Oxford.
 - \* Parker, Holt. 1997. "[The Teratogenic Grid.](https://drive.google.com/file/d/16S95Dgc6N-XZ4g6bNUwh7g8gRqtWoo_N/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 47-65.
 - \* Scullin, Sarah. 2016. "[Making a Monster.](https://eidolon.pub/making-a-monster-3cd90135ef3f)" *Eidolon*. **CW**: pedophilia.
+- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
 
 <p class="list">Optional:</p>
-- \*
+- \* Kenty, Joanna. 2016. "[Hillary CLinton's Rhetorical Persona.](https://eidolon.pub/hillary-clintons-rhetorical-persona-9af06a3c4b03)" *Eidolon.*
 
 **Quiz #9**: M 3/30  
 **Response #9**: Due F 4/3 by 11:59pm
@@ -225,7 +226,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Assignments:</p>
 - [Ovid *Ars Amatoria* 1.1-772](https://drive.google.com/file/d/18aN6K-iw8S3_IUDcjH5Ihb9j_Le21gcf/view?usp=sharing) (Francese, Christopher and R. Scott Smith, eds. 2014. *Ancient Rome: An Anthology of Sources*, 227-248. Indianapolis and Cambridge.)
-- Ovid *Metamorphoses* 6.424-674 <!-- ADD LINK -->
+- [Ovid *Metamorphoses* 6.401-674](https://www.poetryintranslation.com/PITBR/Latin/Metamorph6.php#anchor_Toc64106372)
 - \* Zuckerberg, Donna. 2015. "[Bang Rome: Ovid and the Original Sin of Pickup Artistry.](https://eidolon.pub/bang-rome-2214f4a3d5c5)” *Eidolon*.
 - \* James, Sharon L. 2016. "[Rape and Repetition in Ovid's *Metamorphoses*: Myth, History, Structure, Rome.](https://drive.google.com/file/d/18IT6u4Hg8N3nM0yTMh9uGpHM59nHxBh0/view?usp=sharing)" In *Repeat Performances*, edited by Laurel Fulkerson, 154-175. Madison (Wisc.).
 
