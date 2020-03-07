@@ -55,7 +55,7 @@ The criteria for a grade of satisfactory are as follows:
 2. The content of the pitch must answer the following questions:
     1. What is the topic that you’d like to write about?
     2. What are at least two examples of primary or secondary sources that you would use in writing about it?
-    3. Who is the intended audience for your *Eidolon* piece? The general public? Other college students? People who are knowledgeable about the Roman world? People who know nothing about the Roman world?
+    3. Who is the intended audience for your *Eidolon* piece? The general public? Other college students? People who are knowledgeable about the Greco-Roman world? People who know nothing about the Greco-Roman world?
 3. The pitch’s length should be about 2-3 pp. double spaced.
 4. Submit the pitch via the [Upload Portal](https://forms.gle/f8Di83KNNAr2eGeW8).
 
