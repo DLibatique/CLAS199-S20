@@ -138,6 +138,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## Week 7 (3/9, 3/11, 3/13) - Hellenistic Poetry, Midterm
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1xaaSql8hLkL5oo5Nt2cjlAyd_IfM5DMwYaCisiv8dmo/edit?usp=sharing)
+
 <p class="list">Assignments:</p>
 - Ormand 156-181.
 - \* Murray, Jackie and Jonathan M. Rowland. 2007. "[Gendered Voices in Hellenistic Epigram.](https://drive.google.com/file/d/175fDzT2B8cQt6VQ3MfNTC_2DS_Vo6BF8/view?usp=sharing)" In *Brill's Companion to Hellenistic Epigram*, edited by Peter Bing and Jon Bruss, 211-232. Leiden.
