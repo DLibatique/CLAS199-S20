@@ -136,7 +136,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 ***
 
-## Week 7 (3/9, 3/11, 3/13) - Hellenistic Poetry, Midterm
+## Week 7 (3/9, 3/11, 3/13) - Hellenistic Poetry
 
 **Slideshow**: link [here](https://docs.google.com/presentation/d/1xaaSql8hLkL5oo5Nt2cjlAyd_IfM5DMwYaCisiv8dmo/edit?usp=sharing)
 
@@ -148,13 +148,48 @@ The readings listed under each week should be completed by the Monday class meet
 <p class="list">Optional:</p>
 - \* Pomeroy, Sarah. 1995. "[Hellenistic Women.](https://drive.google.com/file/d/17hJSeOAXdU1LEVP-gWBw7qViVE9T0185/view?usp=sharing)" In *Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity*, 120-148. New York.
 
-**Quiz #6**: M 3/9  
-**Midterm**: F 3/13  
-**Response #6**: Due F 3/13 by 11:59pm
+***
+
+## Week 8 (3/16, 3/18, 3/20) - Syllabus Reconfiguration week
+
+Note that all due dates from this point on are suggestions rather than hard and fast deadlines: the exam and quiz links will all remain live until the end of the semester, and the upload portal will remain live as well. The only hard and fast deadlines are:
+
+- the **midterm exam** should be completed or the **midterm essay** should be uploaded to the upload portal by **Friday, March 27 at 11:59pm**,
+- **midterm exam or essay revisions** will be due by **Wednesday, April 8, at 11:59pm** (details forthcoming),
+- all **quizzes** and **responses** must be submitted by **Wednesday, May 6** (the last day of "study period"),
+- and the **final exam/essay** and **creative projects** will be due by **11:59pm on Tuesday, May 12**.
+
+**Do not let quizzes, responses, and creative projects pile up!** It is in your best interest to try to adhere to the suggested deadlines so that the material is fresh in your mind and so that you're not trying to juggle too many things at the same time.
 
 ***
 
-## Week 8 (3/16, 3/18, 3/20) - From Greece to Rome: Corporal Inviolability and the Penetrative Model
+## Week 9 (3/23, 3/25, 3/27) - Midterm, From Greece to Rome: The Body Female and the Body Politic
+
+### MIDTERM:
+- **Suggested date of completion: M 3/23**.
+- [Link here](https://forms.gle/jQZbfdjhZaNDZKY96).
+  - Refer to the e-mail from Prof. Libatique about the password.
+
+### New content:
+
+<p class="list">Assignments:</p>
+- Ormand 195-199 ("Women, Normal and Non-Normative")
+- Livy [1.9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D9) and [1.13](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D13) on the Rape of the Sabines (**CW: rape**) -- **How are the Sabine women portrayed in their abduction and the eventual reconciliation of the Romans and Sabines?**
+- Livy [1.57-60](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D57) on Lucretia (use the right arrow at the top left of the passage to advance through the chapters) -- **How is Lucretia portrayed? How is Sextus Tarquinius portrayed?**
+- \* Kenty, Joanna. 2017. “[Avenging Lucretia: From Rape to Revolution.](https://eidolon.pub/avenging-lucretia-dd14e936840c)” *Eidolon*. **CW**: rape.
+- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
+
+<p class="list">Optional:</p>
+- \* Joshel, S.R. 2002. "[The Body Female and the Body Politic: Livy's Lucretia and Verginia.](https://drive.google.com/file/d/1-gVjTJPDufUYFnCWYSJq-TD6VSz2cr2v/view?usp=sharing)" In *Sexuality and Gender in the Classical World: Readings and Sources*, edited by Laura McClure, 163-190. Malden (MA) and Oxford.
+
+**Response #6**: F 3/27  
+**Midterm HARD DEADLINE**: F 3/27 by 11:59pm.
+
+***
+
+## Week 10 (4/1, 4/3) - Roman Men and Social Ideals
+
+**NB: Prof. Libatique at jury duty (ugh) M 3/30: no lecture for that day.**
 
 <p class="list">Assignments:</p>
 - Ormand 182-201.
@@ -164,48 +199,53 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Optional:</p>
 - \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
-
-**Quiz #7** (on Hellenistic poetry only): M 3/16  
-**Response #7**: Due F 3/20 by 11:59pm
-
-***
-
-## Week 9 (3/23, 3/25, 3/27) - The Body Female and the Body Politic
-
-<p class="list">Assignments:</p>
-- Livy [1.9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D9) and [1.13](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D13) on the Rape of the Sabines (**CW: rape**) -- **How are the Sabine women portrayed in their abduction and the eventual reconciliation of the Romans and Sabines?**
-- Livy [1.57-60](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D57) on Lucretia (use the right arrow at the top left of the passage to advance through the chapters) -- **How is Lucretia portrayed? How is Sextus Tarquinius portrayed?**
-- \* Kenty, Joanna. 2017. “[Avenging Lucretia: From Rape to Revolution.](https://eidolon.pub/avenging-lucretia-dd14e936840c)” *Eidolon*. **CW**: rape.
-- \* Joshel, S.R. 2002. "[The Body Female and the Body Politic: Livy's Lucretia and Verginia.](https://drive.google.com/file/d/1-gVjTJPDufUYFnCWYSJq-TD6VSz2cr2v/view?usp=sharing)" In *Sexuality and Gender in the Classical World: Readings and Sources*, edited by Laura McClure, 163-190. Malden (MA) and Oxford.
-
-<p class="list">Optional:</p>
 - \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
 
-**Quiz #8**: M 3/23  
-**Midterm Essay Revisions**: Due F 3/27 by 1:50pm  
-**Creative Project #2**: Due F 3/27 by 5pm
-**Response #8**: Due F 3/27 by 11:59pm
+**Quiz #7 (on From Greece to Rome: The Body Female and the Body Politic)**: W 4/1  
+**Response #7**: F 4/3
 
 ***
 
-## Week 10 (3/30, 4/1, 4/3) - Roman Law and Cultural Relativity
+## Week 11.1 (4/6, 4/8) - Roman Law and Cultural Relativity
 
 <p class="list">Assignments:</p>
-- Ormand 225-246 (focus more on 239-246 than on the first part of the chapter.)
+- Ormand 225-246.
 - \* Williams, Craig. 1999. "[The Concept of *Stuprum*.](https://drive.google.com/file/d/1xsF15s9r8Ekp2XX8IfXVd0VwLVXIQ1t1/view?usp=sharing)" In *Roman Homosexuality*, 96-124. New York and Oxford.
 - \* Parker, Holt. 1997. "[The Teratogenic Grid.](https://drive.google.com/file/d/16S95Dgc6N-XZ4g6bNUwh7g8gRqtWoo_N/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 47-65.
 - \* Scullin, Sarah. 2016. "[Making a Monster.](https://eidolon.pub/making-a-monster-3cd90135ef3f)" *Eidolon*. **CW**: pedophilia.
-- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
 
 <p class="list">Optional:</p>
-- \* Kenty, Joanna. 2016. "[Hillary CLinton's Rhetorical Persona.](https://eidolon.pub/hillary-clintons-rhetorical-persona-9af06a3c4b03)" *Eidolon.*
+- \* Kenty, Joanna. 2016. "[Hillary Clinton's Rhetorical Persona.](https://eidolon.pub/hillary-clintons-rhetorical-persona-9af06a3c4b03)" *Eidolon.*
 
-**Quiz #9**: M 3/30  
-**Response #9**: Due F 4/3 by 11:59pm
+**Quiz #8 (on Roman Men and Social Ideals)**: M 4/6  
+**Response #8**: W 4/8  
+**Creative Project #2**: W 4/8  
+**Midterm Exam or Essay Revisions HARD DEADLINE**: W 4/8 by 11:59pm
 
 ***
 
-## Week 11.1 (4/6, 4/8) - Catullus and the Elegists
+## "EASTER BREAK": 4/9 through 4/13
+
+***
+
+## Week 11.2 (4/15, 4/17) - Roman Comedy
+
+<p class="list">Assignments:</p>
+- Ormand 202-223.
+- \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
+- \* Packman, Z.M. 1993. "[Call It Rape: A Motif in Roman Comedy and its Suppression in English-Speaking Publications.](https://drive.google.com/file/d/18qhvrGHxix7Hny89SRMnRPN36iZjImgj/view?usp=sharing)" *Helios* 20: 42-55. **CW**: rape.
+
+<p class="list">Optional:</p>
+- \* Dutsch, Dorota. 2015. "[Feats of Flesh: The Female Body on the Plautine Stage.](https://drive.google.com/file/d/18DHT29Fjt9w3nJ2V3_NBZ5NeTIxxpGBe/view?usp=sharing)" In *Women in Republican Roman Drama*, edited by Dorota Dutsch, Sharon L. James, and David Konstan, 17-36. Madison (Wisc.).
+
+**Quiz #9 (on Roman Law and Cultural Relativity)**: W 4/15  
+**Response #9**: F 4/17
+
+***
+
+## Week 12 (4/20, 4/24) - Catullus and the Elegists
+
+**NB: "Academic Conference" on W 4/22: no lecture for that day**
 
 <p class="list">Assignments:</p>
 - Ormand 247-278.
@@ -216,17 +256,16 @@ The readings listed under each week should be completed by the Monday class meet
 <p class="list">Optional:</p>
 - \* Listen to the [Reading Latin Poetry podcast on Catullus 16](http://www.readinglatinpoetry.com/podcast/2015/6/12/episode-17-sexual-and-literary-violence-catullus-16).
 
-**Quiz #10**: M 4/6
+**Quiz #10 (on Roman Comedy)**: M 4/20  
+**Response #10**: F 4/24  
+**Creative Project #3**: F 4/24
 
 ***
 
-## EASTER BREAK: 4/9 through 4/13
-
-***
-
-## Week 11.2 (4/15, 4/17) - Ovid: Proto-Feminist or Extreme Sexist?
+## Week 13 (4/27, 4/29, 5/1) - Ovid: Proto-Feminist or Extreme Sexist?
 
 <p class="list">Assignments:</p>
+- Ovid *Amores* [1.1](https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535256) and [1.9](https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535264)
 - [Ovid *Ars Amatoria* 1.1-772](https://drive.google.com/file/d/18aN6K-iw8S3_IUDcjH5Ihb9j_Le21gcf/view?usp=sharing) (Francese, Christopher and R. Scott Smith, eds. 2014. *Ancient Rome: An Anthology of Sources*, 227-248. Indianapolis and Cambridge.)
 - [Ovid *Metamorphoses* 6.401-674](https://www.poetryintranslation.com/PITBR/Latin/Metamorph6.php#anchor_Toc64106372)
 - \* Zuckerberg, Donna. 2015. "[Bang Rome: Ovid and the Original Sin of Pickup Artistry.](https://eidolon.pub/bang-rome-2214f4a3d5c5)” *Eidolon*.
@@ -236,34 +275,8 @@ The readings listed under each week should be completed by the Monday class meet
 - Ormand 279-292.
 - \* Barish, Sasha. 2018. "[Iphis’ Hair, Io’s Reflection, and the Gender Dysphoria of the *Metamorphoses*.](https://eidolon.pub/iphis-hair-io-s-reflection-and-the-gender-dysphoria-of-the-metamorphoses-4b75c1ba38d7)" *Eidolon*.
 
-**Response #10**: Due 4/17 by 11:59pm
-
-***
-
-## Week 12 (4/20, 4/24) - Graffiti and Wall Paintings
-
-- Ormand TBD
-- \* "[The Leda Fresco -- Rape or Romp?](https://eidolon.pub/the-leda-fresco-rape-or-romp-86c62f72a864)" *Eidolon*.
-
-**Quiz #11**: M 4/20  
-**Creative Project #3**: Due F 4/24 by 5pm  
-**Response #11**: Due F 4/24 by 11:59pm
-
-***
-
-## Week 13 (4/27, 4/29, 5/1) - Roman Comedy
-
-<p class="list">Assignments:</p>
-- Ormand 202-223.
-- \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
-- \* Dutsch, Dorota. 2015. "[Feats of Flesh: The Female Body on the Plautine Stage.](https://drive.google.com/file/d/18DHT29Fjt9w3nJ2V3_NBZ5NeTIxxpGBe/view?usp=sharing)" In *Women in Republican Roman Drama*, edited by Dorota Dutsch, Sharon L. James, and David Konstan, 17-36. Madison (Wisc.).
-- \* Packman, Z.M. 1993. "[Call It Rape: A Motif in Roman Comedy and its Suppression in English-Speaking Publications.](https://drive.google.com/file/d/18qhvrGHxix7Hny89SRMnRPN36iZjImgj/view?usp=sharing)" *Helios* 20: 42-55. **CW**: rape.
-
-<p class="list">Optional:</p>
-- \* [Plautus' *Casina*](https://drive.google.com/file/d/1llLRZDCfjAZDu8k3NKYE_Cz5cRi8wA8M/view?usp=sharing) (Christenson, David, tr. 2008. *Plautus: Four Plays.* Newburyport (MA).)
-
-**Quiz #12**: M 4/27  
-**Response #12**: Due F 5/1 by 11:59pm
+**Quiz #11 (on Catullus and the Elegists)**: M 4/27  
+**Response #11**: F 5/1
 
 ***
 
@@ -273,14 +286,20 @@ The readings listed under each week should be completed by the Monday class meet
 - Ormand 375-382.
 - \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
 
+**Quiz #12 (on Ovid: Proto-Feminist or Extreme Sexist?)**: M 5/4
+
 ***
 
 ## STUDY PERIOD: 5/5 through 5/6
 
+**Response #12 / all Quizzes and Responses HARD DEADLINE**: W 5/6 by 11:59pm
+
+***
+
 ## EXAM PERIOD: 5/7 through 5/13
 
-**Final Exam**: Date and time TBD  
-**Creative Project #4**: Due the date of the final exam, 3 hours after teh end of the final exam
+**Final Exam or Essay HARD DEADLINE**: T 5/12 by 11:59pm.  
+**Creative Project #4 / all Creative Projects HARD DEADLINE**: T 5/12 by 11:59pm.
 
 
 <!--
