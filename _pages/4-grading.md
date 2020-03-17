@@ -174,7 +174,9 @@ The numerical grade of the exam will be converted into a letter grade according 
 
 Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number.
 
-The midterm will be administered in class on **Friday, March 13**. The midterm revisions will be due two weeks later, on **Friday, March 27**. The final will be administered at a date and time set by the registrar during the Spring 2020 exam period.
+The midterm will be administered via Google Form and it will be due by **Friday, March 27, at 11:59pm**. The midterm revisions will be due a week and a half later, on **Wednesday, April 8, by 11:59pm**.
+
+The final will be administered via Google Form and it will be due by **Tuesday, May 12, at 11:59pm**.
 
 ### Midterm or Final Alternative: Essay
 
@@ -189,9 +191,9 @@ You will be required to draw on at least two primary sources and two secondary s
 Essays will be assigned a letter, rather than a numerical, grade. You will be able to increase your grade on a midterm essay by up to two stops (e.g., from a B- to a B+ or from a A- to an A) if you complete a revision of your essay according to my corrections, questions, and suggestions. You will not be able to revise a final essay.
 
 **You must opt into writing an essay; otherwise, I will assume that you're taking the exam.** Once you notify me that you'd like to write an essay, I will provide further guidelines.
-- If you'd like to write a midterm essay, you must notify me **by Friday 2/28**, and it will be due **by 1:50pm on March 13**.
-- If you want to complete a revision of a midterm essay, it will be due **by 1:50pm on March 27**.
-- If you'd like to write a final essay, you must notify me **by Friday 4/24**, and it will be due by the end of the class' final exam, whatever time the registrar sets.
+- If you'd like to write a midterm essay, you must notify me **by Friday 2/28**, and it will be due **by 11:59pm on Friday, March 27**.
+- If you want to complete a revision of a midterm essay, it will be due **by 11:59pm on Wednesday, April 8**.
+- If you'd like to write a final essay, you must notify me **by Friday 4/24**, and it will be due **by 11:59pm on Tuesday, May 12**.
 
 [Guidelines for writing an essay can be found here](essay).
 
@@ -211,12 +213,12 @@ All text-based creative projects should be submitted via the [upload portal](htt
 
 The guidelines for submission of all media-based creative projects are listed under the appropriate headings.
 
-You may submit up to **one (1) creative project per quarter of the course** according to the following deadlines:
-- Creative Project #1: 2/28, 5pm  
-- Creative Project #2: 3/27, 5pm  
-- Creative Project #3: 4/24, 5pm  
-- Creative Project #4: the date of the final exam, 3 hours after the end time of the final exam  
+You may submit up to **four (4) creative projects** according to the following suggested deadlines:
+- Creative Project #1: 2/28  
+- Creative Project #2: 4/8  
+- Creative Project #3: 4/24  
+- Creative Project #4: 5/12  
 
-If you miss a creative project deadline, you will not have the opportunity to make it up later unless you use three tokens, so please plan accordingly and be proactive in informing me if you think you'll miss a deadline.
+The only hard deadline is that all creative projects must be submitted **by 11:59pm on 5/12**.
 
 [Back to top.](#top)
