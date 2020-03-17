@@ -39,6 +39,11 @@ As originally stipulated in the grading contract, if you score lower on the midt
 
 Obviously, when we’re at distance, “attendance” goes out the window. This is especially true since our normal class meeting times (MWF 1-1:50pm) will be designated as **optional drop-in times** via **Google Meet**. As such, “attendance” will not factor into your semester grade, since no one had an unexcused absence up until this point.
 
+The link for Google Meet sessions for the drop-in sessions during class periods is here: [https://meet.google.com/xqx-wrfn-aco](https://meet.google.com/xqx-wrfn-aco). You can also access them through the Google Calendar invites (see below).
+
+The link for Google Meet sessions for student hours is here:
+[https://meet.google.com/mfv-wpcv-szd](https://meet.google.com/mfv-wpcv-szd). You can also access them through the Google Calendar invites (see below).
+
 Regarding the optional drop-in times and my **student hours (W 2-4pm and Th 10:30am-12:30pm)** for the rest of the semester, please see this reproduction of the e-mail that I sent to the class on M 3/16:
 
 > Our normal class meeting time (1-1:50pm MWF) ... will be an **optional drop-in time**, analogous to student hours, to clarify any questions that you have about the lectures or concepts or to talk about other requirements of the course. If you’d prefer to maintain a sense of normalcy by watching the lectures in our normal class period, I will also have **student hours** from **2-4pm on Wednesdays** and **10:30am to 12:30pm on Thursdays**.
