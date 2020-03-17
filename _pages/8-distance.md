@@ -6,7 +6,7 @@ permalink: /distance
 
 ***
 
-There are nine (9) sections to this document. Please take the time to read it all!
+There are nine (9) sections to this document. Please take the time to read it all! This page is also available as a [Google Doc](https://docs.google.com/document/d/1hRYNiHPU-tdRBQAL-bkSwORml3E6MXhctqti1wxuCX0/edit?usp=sharing).
 
 ***
 
