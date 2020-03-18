@@ -187,9 +187,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ***
 
-## Week 10 (4/1, 4/3) - Roman Men and Social Ideals
-
-**NB: Prof. Libatique at jury duty (ugh) M 3/30: no lecture for that day.**
+## Week 10 (3/30, 4/1, 4/3) - Roman Men and Social Ideals
 
 <p class="list">Assignments:</p>
 - Ormand 182-201.
@@ -201,7 +199,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 - \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
 - \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
 
-**Quiz #7 (on From Greece to Rome: The Body Female and the Body Politic)**: W 4/1  
+**Quiz #7 (on From Greece to Rome: The Body Female and the Body Politic)**: M 3/30  
 **Response #7**: F 4/3
 
 ***
