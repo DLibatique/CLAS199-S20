@@ -12,8 +12,7 @@ There are nine (9) sections to this document. Please take the time to read it al
 
 ## 1. General Notes
 
-
-Needless to say, these are unprecedented times which call for extraordinary measures. My goal is to set up a distance learning environment that allows you to set your own pace as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. Please don’t ever hesitate to e-mail me, visit via Google Meet at preordained times (see below) or non-preordained times via appointment, or leave a message in the [GroupMe](https://groupme.com/join_group/58689348/viyFCyPR) with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme. Here’s a recent favorite of mine: the woman yelling at cat meme with an ancient twist (by [AlexanderPetela on redbubble.com](https://www.redbubble.com/people/alexanderpetela/works/45492270-ancient-greek-vase-cat-meme)):
+Needless to say, these are unprecedented times which call for extraordinary measures. My goal is to set up a distance learning environment that allows you to set your own pace as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. Please don’t ever hesitate to e-mail me, visit via Zoom at preordained times (see below) or non-preordained times via appointment, or leave a message in the [GroupMe](https://groupme.com/join_group/58689348/viyFCyPR) with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme. Here’s a recent favorite of mine: the woman yelling at cat meme with an ancient twist (by [AlexanderPetela on redbubble.com](https://www.redbubble.com/people/alexanderpetela/works/45492270-ancient-greek-vase-cat-meme)):
 
 ![](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/p480x480/87397088_2352776951489457_2012672638987534336_o.jpg?_nc_cat=108&_nc_sid=dd9801&_nc_ohc=Y7bmj6XsB5kAX_CjPKU&_nc_ht=scontent-iad3-1.xx&_nc_tp=6&oh=c832c2eab033bde38a033bca3db85a7b&oe=5E95BC54)
 
@@ -37,20 +36,13 @@ As originally stipulated in the grading contract, if you score lower on the midt
 
 ## 4. “Attendance Policy”: Class Meetings and Student Hours
 
-Obviously, when we’re at distance, “attendance” goes out the window. This is especially true since our normal class meeting times (MWF 1-1:50pm) will be designated as **optional drop-in times** via **Google Meet**. As such, “attendance” will not factor into your semester grade, since no one had an unexcused absence up until this point.
+Obviously, when we’re at distance, “attendance” goes out the window. This is especially true since our normal class meeting times (MWF 1-1:50pm) will be designated as **optional drop-in times** via **Zoom**. As such, “attendance” will not factor into your semester grade, since no one had an unexcused absence up until this point.
 
-The link for Google Meet sessions for the drop-in sessions during class periods is here: [https://meet.google.com/xqx-wrfn-aco](https://meet.google.com/xqx-wrfn-aco). You can also access them through the Google Calendar invites (see below).
+The link for all class periods and student hours is [here](https://holycross.zoom.us/j/5087933070).
 
-The link for Google Meet sessions for student hours is here:
-[https://meet.google.com/mfv-wpcv-szd](https://meet.google.com/mfv-wpcv-szd). You can also access them through the Google Calendar invites (see below).
+I am guaranteed to be in this Zoom meeting room during our class periods (**MWF 1-1:50pm**) and my student hours (**W 2-4pm and Th 10:30am-12:30pm**) for the rest of the semester. To be clear, each of these times is **optional**; you can drop in to clarify any questions that you have about the lectures or concepts or to talk about other requirements of the course, but you are not required to join the Zoom meeting at any of these times.
 
-Regarding the optional drop-in times and my **student hours (W 2-4pm and Th 10:30am-12:30pm)** for the rest of the semester, please see this reproduction of the e-mail that I sent to the class on M 3/16:
-
-> Our normal class meeting time (1-1:50pm MWF) ... will be an **optional drop-in time**, analogous to student hours, to clarify any questions that you have about the lectures or concepts or to talk about other requirements of the course. If you’d prefer to maintain a sense of normalcy by watching the lectures in our normal class period, I will also have **student hours** from **2-4pm on Wednesdays** and **10:30am to 12:30pm on Thursdays**.
-
-> These drop-in times and student hours will be administered via **Google Meet**. You should have received two invitations to add recurring events to your Google Calendar: one for our recurring class period, and one for student hours. Please accept the invitations, and then head to https://calendar.google.com to make sure that the class meetings and student hours are showing up in your calendar starting from Monday, March 23, on, with a one-off event on Wednesday 3/18 (see next paragraph). In each event, you should see a prompt to “Join Hangouts Meet” — that will be the link to use to join the Google Meet meeting for that class period or student hours session. I think I might have botched the Thursday student hour times in particular, so please let me know if you don’t see our class meeting times or the 2-4pm block on Wednesdays or the 10:30am-12:30pm block on Thursdays.
-
-> In order to test this out, I’ll be hosting a **trial run Google Meet meeting on W 3/18 (this Wednesday) at our normal class time (1pm)**. If you are free and able, please join that Google Meet meeting at that time so I can see if it works correctly.
+These drop-in times and student hours will be administered via **Zoom**. You should have received two invitations to add recurring events to your Google Calendar: one for our recurring class period, and one for student hours. Please accept the invitations, and then head to https://calendar.google.com to make sure that the class meetings and student hours are showing up in your calendar. In each event, you should see a prompt to “Join Zoom Meeting” — that will be the link to use to join the Zoom meeting for that class period or student hours session. You can also use the link posted above. I think I might have botched the Thursday student hour times in particular, so please let me know if you don’t see our class meeting times or the 2-4pm block on Wednesdays or the 10:30am-12:30pm block on Thursdays.
 
 ***
 
