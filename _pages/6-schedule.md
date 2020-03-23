@@ -176,7 +176,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 - [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b47cf93-c700-4d87-b161-ab8701504a51)
 - [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0d29943-cb46-4f80-83f2-ab87015b468c)
 
-**F 3/27**: [Panopto lecture](#) - link forthcoming
+**F 3/27**: [Zoom lecture](https://drive.google.com/file/d/11DctfTM0GN7I_fLYhmbcDedAv72c91mj/view?usp=sharing)
 
 <p class="list">Assignments:</p>
 - Ormand 195-199 ("Women, Normal and Non-Normative")
