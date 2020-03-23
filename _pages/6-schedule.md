@@ -177,9 +177,9 @@ Note that all due dates from this point on are suggestions rather than hard and 
 - Livy [1.9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D9) and [1.13](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D13) on the Rape of the Sabines (**CW: rape**) -- **How are the Sabine women portrayed in their abduction and the eventual reconciliation of the Romans and Sabines?**
 - Livy [1.57-60](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D57) on Lucretia (use the right arrow at the top left of the passage to advance through the chapters) -- **How is Lucretia portrayed? How is Sextus Tarquinius portrayed?**
 - \* Kenty, Joanna. 2017. “[Avenging Lucretia: From Rape to Revolution.](https://eidolon.pub/avenging-lucretia-dd14e936840c)” *Eidolon*. **CW**: rape.
-- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
 
 <p class="list">Optional:</p>
+- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
 - \* Joshel, S.R. 2002. "[The Body Female and the Body Politic: Livy's Lucretia and Verginia.](https://drive.google.com/file/d/1-gVjTJPDufUYFnCWYSJq-TD6VSz2cr2v/view?usp=sharing)" In *Sexuality and Gender in the Classical World: Readings and Sources*, edited by Laura McClure, 163-190. Malden (MA) and Oxford.
 
 **Response #6**: F 3/27  
