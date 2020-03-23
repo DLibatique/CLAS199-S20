@@ -172,6 +172,12 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ### New content:
 
+<p class="list"><strong>W 3/25</strong>:</p>
+- [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b47cf93-c700-4d87-b161-ab8701504a51)
+- [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0d29943-cb46-4f80-83f2-ab87015b468c)
+
+**F 3/27**: [Panopto lecture](#) - link forthcoming
+
 <p class="list">Assignments:</p>
 - Ormand 195-199 ("Women, Normal and Non-Normative")
 - Livy [1.9](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D9) and [1.13](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0151%3Abook%3D1%3Achapter%3D13) on the Rape of the Sabines (**CW: rape**) -- **How are the Sabine women portrayed in their abduction and the eventual reconciliation of the Romans and Sabines?**
