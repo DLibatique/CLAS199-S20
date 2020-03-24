@@ -10,7 +10,224 @@ The readings listed under each week should be completed by the Monday class meet
 
 ***
 
-## Week 1 (1/22, 1/24)- Introduction
+<button onclick="toggleDisplay('firsthalf')">Click here to hide Weeks 1 through 7.</button> <span style="display: none;" id="prac1">optative: "If only they wouldn't be conquered!"</span>
+
+***
+
+<div id='firsthalf'>
+
+<h2 id="week1122124introduction">Week 1 (1/22, 1/24)- Introduction</h2>
+
+<p><strong>Slideshow</strong>: <a href="https://docs.google.com/presentation/d/1i0y4eE3EyCtAwNBivQrewi6xNAtGmgeHZYqSYgoHhNQ/edit?usp=sharing">link here</a> <br />
+<strong>Friday 1/24 Lecture</strong>: <a href="https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4bd95242-1df3-4cd2-a033-ab4c0129835a">link here</a></p>
+
+<p class="list"><strong>Assignments</strong>:</p>
+
+<ul>
+<li>Read the <a href="nuts-and-bolts">course policies</a> and <a href="grading">grading contract</a> thoroughly to ensure that you understand all the requirements of the course.</li>
+
+<li>Fill out this <a href="https://forms.gle/xM1bcFxPoXQPtEQb6">student information form</a>.</li>
+
+<li>Read <a href="https://drive.google.com/file/d/11imJVwxHFgirRM0qkc0F112fUI2ppeTQ/view?usp=sharing">Ormand 1-24</a>.</li>
+</ul>
+
+<p class="list"><strong>Optional</strong>:</p>
+
+<ul>
+<li>* Skinner, Marilyn. 2013. "<a href="https://drive.google.com/file/d/11ebrIR08Ip-ao9s8aGFStEhe9GXWxmMA/view?usp=sharing">Introduction: Why Ancient Sexuality? Issues and Approaches.</a>" In <em>Sexuality in Greek and Roman Culture,</em> 1-28. Hoboken.</li>
+
+<li>* Clarke, Hannah. 2019. "<a href="https://eidolon.pub/queer-classics-b84819356f74">Queer Classics.</a>" <em>Eidolon</em>.</li>
+
+<li>* Gillies, Grace. 2017. "<a href="https://eidolon.pub/the-body-in-question-d28045d23714">The Body in Question.</a>" <em>Eidolon</em>.</li>
+</ul>
+
+<hr />
+
+<h2 id="week2127129131greeksocialstructuresandconstructionsgenderrolesmarriagedivorcepederasty">Week 2 (1/27, 1/29, 1/31) - Greek Social Structures and Constructions: Gender Roles, Marriage, Divorce, Pederasty</h2>
+
+<p><strong>Slideshow</strong>: <a href="https://docs.google.com/presentation/d/1cKIkFi3L0escEzCqjoEFqW4khFVrtvVGRk_PWNHhLxo/edit?usp=sharing">link here</a></p>
+
+<p><strong>Complete <a href="https://goo.gl/forms/HiA7b5oR7HWzmR7U2">this library pre-instruction survey</a> by class on M 1/27!</strong></p>
+
+<p class="list"><strong>Assignments</strong>:</p>
+
+<ul>
+<li><a href="https://drive.google.com/file/d/11tpFBAbLnUGhK94NrIbwUqZkUqZNdv6w/view?usp=sharing">Ormand 55-72</a>.</li>
+
+<li><a href="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59">Thucydides 6.54-59</a>. - <strong>Identify the following characters and how they fit into the narrative: Hipparchus, Hippias, Harmodius, Aristogeiton.</strong></li>
+
+<li>* Robson, James. 2013. "<a href="https://drive.google.com/file/d/11x7hf6mV8S1i5Yfrbb0PI49rA-Bk3INL/view?usp=sharing">Sexual Unions: Marriage and Domestic Life.</a>" In <em>Sex and Sexuality in Classical Athens</em>, 3-35. Edinburgh.</li>
+
+<li>* Robson 2013, 36-66, “<a href="https://drive.google.com/file/d/1_ExjMvd3RdSnCLDcrPgawoeV1ru40X4V/view?usp=sharing">Same-Sex Relationships.</a>.”</li>
+
+<li>* Listen to the <a href="http://www.thehistoryofancientgreece.com/2018/04/074-marriage-and-domesticity.html">History of Ancient Greece podcast on marriage and domesticity</a> (scroll to the middle of the page for the appropriate play button).</li>
+</ul>
+
+<p class="list"><strong>Optional</strong>:</p>
+
+<ul>
+<li>* Beck, Bill. 2018. “<a href="https://eidolon.pub/the-measure-of-a-man-a3ae1af0dcb2">The Measure of a Man: Minor Classical Phalluses, Major Modern Fragility.</a>” <em>Eidolon</em>.</li>
+</ul>
+
+<p><strong>Quiz #1</strong>: M 1/27 <br />
+<strong>Response #1</strong>: Due F 1/31 by 11:59pm</p>
+
+<hr />
+
+<h2 id="week3232527greekepic">Week 3 (2/3, 2/5, 2/7) - Greek Epic</h2>
+
+<p><strong>Slideshow</strong>: <a href="https://docs.google.com/presentation/d/1otKGQgg3JZ2ocC1iocv4MzgkQ_ZzUvQGmBcuNEY1OZU/edit?usp=sharing">link here</a></p>
+
+<p class="list"><strong>Assignments</strong>:</p>
+
+<ul>
+<li><a href="https://drive.google.com/file/d/11wAAjitUiysJo4-B3L68o5XljMyFrXLo/view?usp=sharing">Ormand 25-34</a>.</li>
+
+<li><a href="https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220">Homer, Iliad 18.1-147</a> (Achilles laments over Patroclus).</li>
+
+<li><a href="https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425">Homer, Iliad 22.405-515</a> (Hector dies, the Trojans lament). - <strong>In what ways are the reaction of Achilles to Patroclus' death [spoiler alert, sorry] similar to the reaction of the Trojans to Hector's death?</strong></li>
+
+<li><a href="https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/">Hesiod, Works &amp; Days 53-105</a></li>
+
+<li><a href="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0020.tlg001.perseus-eng2:565-610">Hesiod, Theogony 565-610</a> - <strong>How are women characterized in both of Hesiod's accounts? How do the accounts differ?</strong></li>
+
+<li>* Miller, Madeline, <a href="http://madelinemiller.com/q-a-the-song-of-achilles/">Q&amp;A on <em>The Song of Achilles</em>.</a></li>
+
+<li>* Zuckerberg, Donna. 2016. “<a href="https://eidolon.pub/the-breasts-that-launched-a-thousand-ships-c56b42aec9da">The Breasts that Launched a Thousand Ships (Helen’s face is up here, thanks).</a>” <em>Eidolon</em>.</li>
+</ul>
+
+<p class="list"><strong>Optional</strong>:</p>
+
+<ul>
+<li>* Harrisson, Juliette Grace. 2016. "<a href="https://journal.transformativeworks.org/index.php/twc/article/view/690/576">Shipping in Plato's <em>Symposium</em>.</a>" In <em>The Classical Canon and/as Transformative Work</em>, edited by Ika Willis, special issue, <em>Transformative Works and Cultures</em> 21.</li>
+</ul>
+
+<p><strong>Quiz #2</strong>: M 2/3 <br />
+<strong>Response #2</strong>: Due F 2/7 by 11:59pm</p>
+
+<hr />
+
+<h2 id="week4210212214greekelegyandlyricandthesymposium">Week 4 (2/10, 2/12, 2/14) - Greek Elegy and Lyric and the Symposium</h2>
+
+<p><strong>Slideshow</strong>: link <a href="https://docs.google.com/presentation/d/1LEAUBnlyWP59Zow7RGNMBpiekS55E6Xale1iI11I8Nw/edit?usp=sharing">here</a>.</p>
+
+<ul>
+<li><a href="https://drive.google.com/file/d/11wAAjitUiysJo4-B3L68o5XljMyFrXLo/view?usp=sharing">Ormand 34-54</a>.</li>
+
+<li><a href="https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing">Sappho 1, 16, 31</a>. -- Carson, Anne (trans.). 2003. <em>If Not, Winter: Fragments of Sappho</em>. New York. - <strong>What is the dramatic situation in each of these poems? Who are the characters, and how do they relate?</strong></li>
+
+<li><a href="https://diotima-doctafemina.org/translations/greek/archilochos-the-cologne-epode/archilochos-p-colon-7511/">Archilochus, Cologne Epode</a> - <strong>Same questions as for Sappho: who are the characters involved, and how do they relate? What's happening in this poem?</strong></li>
+
+<li>* Murcia, Francesco Javier. 2017. "<a href="https://drive.google.com/file/d/1-6BmZAlSdLlKEiJkQN3v2zsKEZshqrzk/view?usp=sharing">Wine, Women, and Wisdom: The Symposia of Ancient Greece.</a>" <em>National Geographic History</em>.</li>
+
+<li>* Haselswerdt, Ella. 2016. “<a href="https://eidolon.pub/re-queering-sappho-c6c05b6b9f0b">Re-Queering Sappho.</a>” <em>Eidolon</em>.</li>
+</ul>
+
+<p class="list"><strong>Optional</strong>:</p>
+
+<ul>
+<li>* Listen to the <a href="https://www.bbc.co.uk/sounds/play/b05pqsk4">In Our Time podcast on Sappho</a>.</li>
+
+<li>* Listen to the <a href="http://greecepodcast.com/episode4.html">Ancient Greece Declassified podcast on Sappho</a>.</li>
+</ul>
+
+<p><strong>Quiz #3</strong>: M 2/10 <br />
+<strong>Response #3</strong>: Due F 2/14 by 11:59pm</p>
+
+<hr />
+
+<h2 id="week5217219221greekcomedy">Week 5 (2/17, 2/19, 2/21) - Greek Comedy</h2>
+
+<p><strong>Slideshow</strong>: link <a href="https://docs.google.com/presentation/d/16xZZHiC6gDeqMNvSe8eSeM0XB-Sj-O4JS-Ds8fdetNE/edit?usp=sharing">here</a> <br />
+<strong>Panopto Lecture for F 2/21</strong>: link <a href="https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3d582829-4444-4506-986b-ab66017e8c95">here</a></p>
+
+<p class="list"><strong>Assignments</strong>:</p>
+
+<ul>
+<li>Ormand 73-91.</li>
+
+<li><a href="https://docs.google.com/document/d/1Opry-2SugKcNz0AdaA-YwofttB8kcaTIxTSy9dl6AmU/edit?usp=sharing">Aristophanes <em>Lysistrata</em> Agon</a> - <strong>What qualities or activities are seen as specific to women or men?</strong></li>
+
+<li>* Listen to the <a href="http://www.thehistoryofancientgreece.com/2017/09/054-old-comedy-and-aristophanes.html">History of Ancient Greece podcast on Old Comedy and Aristophanes</a> (scroll to the middle of the page for the appropriate play button).</li>
+
+<li>* Foley, Helene. 2014. “<a href="https://drive.google.com/file/d/1aIPTXImQ0Cfyq45F-4wyJmcuARB_c8V_/view?usp=sharing">Performing Gender in Greek Old and New Comedy.</a>” In <em>The Cambridge Companion to Greek Comedy</em>, edited by Martin Revermann, 259-274. Cambridge.</li>
+
+<li>* Murray, Kourtney. 2018. “<a href="https://eidolon.pub/spinning-out-of-hades-6c5891f0412a">Spinning Out of Hades: A Journey from the Thesmophoria to Spin Class.</a>” <em>Eidolon</em>.</li>
+</ul>
+
+<p class="list"><strong>Optional</strong>:</p>
+
+<ul>
+<li>* Listen to the <a href="https://www.bbc.co.uk/sounds/play/p003c1d3">In Our Time podcast on Comedy in Ancient Greek Theatre</a>.</li>
+</ul>
+
+<p><strong>Quiz #4</strong>: M 2/17 <br />
+<strong>Response #4</strong>: Due F 2/21 by 11:59pm</p>
+
+<hr />
+
+<h2 id="week6224226228greekoratoryandlaw">Week 6 (2/24, 2/26, 2/28) - Greek Oratory and Law</h2>
+
+<p><strong>Slideshow</strong>: link <a href="https://docs.google.com/presentation/d/1-bsS2wyeuBWGooKatJABpw1lAUYgpfQ-ZuoWB2_uII0/edit?usp=sharing">here</a> <br />
+*<strong>Gorgias'</strong> <strong><em>Helen</em></strong>, 1-8 and 20-21: link <a href="http://sunoikisis-euripides.org/wp-content/uploads/2016/03/Gorgias.Helen_.pdf">here</a> - 1) How is Helen depicted? What does this depiction imply about gender? 2) In what three ways does Gorgias 'defend' Helen?</p>
+
+<p class="list"><strong>Assignments</strong>:</p>
+
+<ul>
+<li>Ormand 92-110.</li>
+
+<li>* Robson 2013, 67-89, "<a href="https://drive.google.com/file/d/11qDZUX77X40YBu5INdIsEtUocalSO178/view?usp=sharing">Prostitution</a>."</li>
+
+<li>* Robson 2013, 90-115, "<a href="https://drive.google.com/file/d/1-Tx7HVMdC3q_ExJtMfT7C0pGKapRqoYq/view?usp=sharing">Sex and the Law: Adultery and Rape</a>."</li>
+
+<li><a href="http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&amp;query=Aeschin.%201.3&amp;getid=1">Aeschines <em>Against Timarchus</em></a>. Read as much as you'd like (there are 196 chapters) to get a sense of Aeschines' argumentation and rhetorical style. Note what he uses as evidence or the ways in which he tries to assassinate the character of Timarchus.</li>
+
+<li>* Cantarella, Eva. 2005. "<a href="https://drive.google.com/file/d/17-54_nAv2-NSSRxnxAd9vonn-pDden9w/view?usp=sharing">Gender, Sexuality, and Law.</a>" In <em>The Cambridge Companion to Ancient Greek Law</em>, edited by Michael Gagarin and David Cohen, 236-253. Cambridge.</li>
+
+<li>* Spatharas, Dimos. 2016. "<a href="https://drive.google.com/file/d/17-_zs3_UeJRSHHW2q884t1-moi-ga7el/view?usp=sharing">Sex, Politics, and Disgust in Aechines' <em>Against Timarchus</em>.</a>" In <em>The Ancient Emotion of Disgust</em>, edited by Donald Lateiner and Dimos Spatharas, 125-139. Oxford.</li>
+</ul>
+
+<p class="list"><strong>Optional</strong>:</p>
+
+<ul>
+<li>* Herz, Zachary. 2015. “<a href="https://eidolon.pub/law-v-history-2ccfc296ca80">Law v. History: the story of the Supreme Court’s misguided, forty-year fixation on ancient gay history.</a>” <em>Eidolon</em>.</li>
+
+<li>* Listen to the <a href="http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html">History of Ancient Greece podcast on Love, Sex, and Prostitution</a>.</li>
+
+<li>* Bond, Sarah. 2019. "<a href="https://sarahemilybond.com/2019/07/13/consider-the-anus-radish-etymologies-adultery-and-the-defense-of-the-microhistory/">Consider the Anus Radish: Etymologies, Adultery, and the Defense of the Microhistory.</a>" Scholarly Blog.</li>
+</ul>
+
+<p><strong>Quiz #5</strong>: M 2/24 <br />
+<strong>Creative Project #1</strong>: Due F 2/28 by 5pm <br />
+<strong>Response #5</strong>: Due F 2/28 by 11:59pm  </p>
+
+<hr />
+
+<h2 id="springbreak229through38">SPRING BREAK: 2/29 through 3/8</h2>
+
+<hr />
+
+<h2 id="week739311313hellenisticpoetry">Week 7 (3/9, 3/11, 3/13) - Hellenistic Poetry</h2>
+
+<p><strong>Slideshow</strong>: link <a href="https://docs.google.com/presentation/d/1xaaSql8hLkL5oo5Nt2cjlAyd_IfM5DMwYaCisiv8dmo/edit?usp=sharing">here</a></p>
+
+<p class="list"><strong>Assignments</strong>:</p>
+
+<ul>
+<li>Ormand 156-181.</li>
+
+<li>* Murray, Jackie and Jonathan M. Rowland. 2007. "<a href="https://drive.google.com/file/d/175fDzT2B8cQt6VQ3MfNTC_2DS_Vo6BF8/view?usp=sharing">Gendered Voices in Hellenistic Epigram.</a>" In <em>Brill's Companion to Hellenistic Epigram</em>, edited by Peter Bing and Jon Bruss, 211-232. Leiden.</li>
+
+<li>* Fountoulakis, Andreas. 2013. "<a href="https://drive.google.com/file/d/18uh3YzkKkRu4ilbiBveGFJM-9vwJ611I/view?usp=sharing">Male Bodies, Male Gazes: Exploring Erôs in the Twelfth Book of the <em>Greek Anthology</em></a>." In <em>Erôs in Ancient Greece</em>, edited by Ed Sanders, Chiara Thumiger, Christopher Carey, and Nick Lowe, 293-312. Oxford.</li>
+</ul>
+
+<p class="list"><strong>Optional</strong>:</p>
+
+<ul>
+<li>* Pomeroy, Sarah. 1995. "<a href="https://drive.google.com/file/d/17hJSeOAXdU1LEVP-gWBw7qViVE9T0185/view?usp=sharing">Hellenistic Women.</a>" In <em>Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity</em>, 120-148. New York.</li>
+</ul>
+
+<!-- ## Week 1 (1/22, 1/24)- Introduction
 
 **Slideshow**: [link here](https://docs.google.com/presentation/d/1i0y4eE3EyCtAwNBivQrewi6xNAtGmgeHZYqSYgoHhNQ/edit?usp=sharing)  
 **Friday 1/24 Lecture**: [link here](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4bd95242-1df3-4cd2-a033-ab4c0129835a)
@@ -146,7 +363,9 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Fountoulakis, Andreas. 2013. "[Male Bodies, Male Gazes: Exploring Erôs in the Twelfth Book of the *Greek Anthology*](https://drive.google.com/file/d/18uh3YzkKkRu4ilbiBveGFJM-9vwJ611I/view?usp=sharing)." In *Erôs in Ancient Greece*, edited by Ed Sanders, Chiara Thumiger, Christopher Carey, and Nick Lowe, 293-312. Oxford.
 
 <p class="list"><strong>Optional</strong>:</p>
-- \* Pomeroy, Sarah. 1995. "[Hellenistic Women.](https://drive.google.com/file/d/17hJSeOAXdU1LEVP-gWBw7qViVE9T0185/view?usp=sharing)" In *Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity*, 120-148. New York.
+- \* Pomeroy, Sarah. 1995. "[Hellenistic Women.](https://drive.google.com/file/d/17hJSeOAXdU1LEVP-gWBw7qViVE9T0185/view?usp=sharing)" In *Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity*, 120-148. New York. -->
+
+</div>
 
 ***
 
