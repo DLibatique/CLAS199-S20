@@ -172,11 +172,17 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ### New content:
 
+#### Slideshow and Panopto Lectures:
+
+**Slideshow**: [link here](https://docs.google.com/presentation/d/1UYX47tzWS7oBjFIvEH8Qyt6hK4qvLcyQlhpLCX1UeRM/edit?usp=sharing)
+
 <p class="list"><strong>W 3/25</strong>:</p>
 - [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b47cf93-c700-4d87-b161-ab8701504a51)
 - [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0d29943-cb46-4f80-83f2-ab87015b468c)
 
 **F 3/27**: [Zoom lecture](https://drive.google.com/file/d/11DctfTM0GN7I_fLYhmbcDedAv72c91mj/view?usp=sharing)
+
+#### Readings:
 
 <p class="list">Assignments:</p>
 - Ormand 195-199 ("Women, Normal and Non-Normative")
@@ -195,6 +201,15 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ## Week 10 (3/30, 4/1, 4/3) - Roman Men and Social Ideals
 
+[**Quiz #7 (on From Greece to Rome: The Body Female and the Body Politic)**](https://forms.gle/z6bHNtQsrCXomjuV9): M 3/30  
+
+**Slideshow**: [link here](#) - link forthcoming
+
+<p class="list"><strong>Video lectures</strong>:</p>
+- [M 3/30](#) - link forthcoming
+- [W 4/1](#) - link forthcoming
+- [F 4/3](#) - link forthcoming
+
 <p class="list">Assignments:</p>
 - Ormand 182-201.
 - \* Walters, Jonathan. 1997. "[Invading the Roman Body: Manliness and Impenetrability in Roman Thought.](https://drive.google.com/file/d/16TtKhHiHvdQ4uxnM_BwXvRvsAUg7Ijij/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 29-43. Princeton.
@@ -205,12 +220,19 @@ Note that all due dates from this point on are suggestions rather than hard and 
 - \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
 - \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
 
-**Quiz #7 (on From Greece to Rome: The Body Female and the Body Politic)**: M 3/30  
 **Response #7**: F 4/3
 
 ***
 
 ## Week 11.1 (4/6, 4/8) - Roman Law and Cultural Relativity
+
+[**Quiz #8 (on Roman Men and Social Ideals)**](#): M 4/6 - link forthcoming  
+
+**Slideshow**: [link here](#) - link forthcoming
+
+<p class="list"><strong>Video lectures</strong>:</p>
+- [M 4/6](#) - link forthcoming
+- [W 4/8](#) - link forthcoming
 
 <p class="list">Assignments:</p>
 - Ormand 225-246.
@@ -221,7 +243,6 @@ Note that all due dates from this point on are suggestions rather than hard and 
 <p class="list">Optional:</p>
 - \* Kenty, Joanna. 2016. "[Hillary Clinton's Rhetorical Persona.](https://eidolon.pub/hillary-clintons-rhetorical-persona-9af06a3c4b03)" *Eidolon.*
 
-**Quiz #8 (on Roman Men and Social Ideals)**: M 4/6  
 **Response #8**: W 4/8  
 **Creative Project #2**: W 4/8  
 **Midterm Exam or Essay Revisions HARD DEADLINE**: W 4/8 by 11:59pm
@@ -234,6 +255,14 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ## Week 11.2 (4/15, 4/17) - Roman Comedy
 
+[**Quiz #9 (on Roman Law and Cultural Relativity)**](#): W 4/15 - link forthcoming  
+
+**Slideshow**: [link here](#) - link forthcoming
+
+<p class="list"><strong>Video lectures</strong>:</p>
+- [W 4/15](#) - link forthcoming
+- [F 4/17](#) - link forthcoming
+
 <p class="list">Assignments:</p>
 - Ormand 202-223.
 - \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
@@ -242,12 +271,19 @@ Note that all due dates from this point on are suggestions rather than hard and 
 <p class="list">Optional:</p>
 - \* Dutsch, Dorota. 2015. "[Feats of Flesh: The Female Body on the Plautine Stage.](https://drive.google.com/file/d/18DHT29Fjt9w3nJ2V3_NBZ5NeTIxxpGBe/view?usp=sharing)" In *Women in Republican Roman Drama*, edited by Dorota Dutsch, Sharon L. James, and David Konstan, 17-36. Madison (Wisc.).
 
-**Quiz #9 (on Roman Law and Cultural Relativity)**: W 4/15  
 **Response #9**: F 4/17
 
 ***
 
 ## Week 12 (4/20, 4/24) - Catullus and the Elegists
+
+[**Quiz #10 (on Roman Comedy)**](#): M 4/20 - link forthcoming  
+
+**Slideshow**: [link here](#) - link forthcoming
+
+<p class="list"><strong>Video lectures</strong>:</p>
+- [M 4/20](#) - link forthcoming
+- [F 4/24](#) - link forthcoming
 
 **NB: "Academic Conference" on W 4/22: no lecture for that day**
 
@@ -260,13 +296,21 @@ Note that all due dates from this point on are suggestions rather than hard and 
 <p class="list">Optional:</p>
 - \* Listen to the [Reading Latin Poetry podcast on Catullus 16](http://www.readinglatinpoetry.com/podcast/2015/6/12/episode-17-sexual-and-literary-violence-catullus-16).
 
-**Quiz #10 (on Roman Comedy)**: M 4/20  
 **Response #10**: F 4/24  
 **Creative Project #3**: F 4/24
 
 ***
 
 ## Week 13 (4/27, 4/29, 5/1) - Ovid: Proto-Feminist or Extreme Sexist?
+
+[**Quiz #11 (on Catullus and the Elegists)**](#): M 4/27 - link forthcoming  
+
+**Slideshow**: [link here](#) - link forthcoming
+
+<p class="list"><strong>Video lectures</strong>:</p>
+- [M 4/27](#) - link forthcoming
+- [W 4/29](#) - link forthcoming
+- [F 5/1](#) - link forthcoming
 
 <p class="list">Assignments:</p>
 - Ovid *Amores* [1.1](https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535256) and [1.9](https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535264)
@@ -279,18 +323,22 @@ Note that all due dates from this point on are suggestions rather than hard and 
 - Ormand 279-292.
 - \* Barish, Sasha. 2018. "[Iphis’ Hair, Io’s Reflection, and the Gender Dysphoria of the *Metamorphoses*.](https://eidolon.pub/iphis-hair-io-s-reflection-and-the-gender-dysphoria-of-the-metamorphoses-4b75c1ba38d7)" *Eidolon*.
 
-**Quiz #11 (on Catullus and the Elegists)**: M 4/27  
 **Response #11**: F 5/1
 
 ***
 
 ## Week 14 (5/4) - In Conclusion
 
+[**Quiz #12 (on Ovid: Proto-Feminist or Extreme Sexist?)**](#): M 5/4 - link forthcoming  
+
+**Slideshow**: [link here](#) - link forthcoming
+
+<p class="list"><strong>Video lectures</strong>:</p>
+- [M 5/4](#) - link forthcoming
+
 <p class="list">Assignments:</p>
 - Ormand 375-382.
 - \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
-
-**Quiz #12 (on Ovid: Proto-Feminist or Extreme Sexist?)**: M 5/4
 
 ***
 
