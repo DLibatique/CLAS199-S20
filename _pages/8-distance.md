@@ -4,6 +4,15 @@ title: Distance Reconfigurations
 permalink: /distance
 ---
 
+## Quiz Links
+
+- [Quiz 7 (From Greece to Rome: The Body Female and the Body Politic)](https://forms.gle/z6bHNtQsrCXomjuV9)
+- [Quiz 8 (Roman Men and Social Ideals)](#) - link forthcoming
+- [Quiz 9 (Roman Law and Cultural Relativity)](#) - link forthcoming
+- [Quiz 10 (Roman Comedy)](#) - link forthcoming
+- [Quiz 11 (Catullus and the Elegists)](#) - link forthcoming
+- [Quiz 12 (Ovid: Proto-Feminist or Extreme Sexist?)](#) - link forthcoming
+
 ***
 
 There are nine (9) sections to this document. Please take the time to read it all! This page is also available as a [Google Doc](https://docs.google.com/document/d/1hRYNiHPU-tdRBQAL-bkSwORml3E6MXhctqti1wxuCX0/edit?usp=sharing).

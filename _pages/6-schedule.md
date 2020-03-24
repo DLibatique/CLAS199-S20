@@ -384,24 +384,19 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ## Week 9 (3/23, 3/25, 3/27) - Midterm, From Greece to Rome: The Body Female and the Body Politic
 
-### MIDTERM:
+### MIDTERM
 - **Suggested date of completion: M 3/23**.
 - [Link here](https://forms.gle/jQZbfdjhZaNDZKY96).
   - Refer to the e-mail from Prof. Libatique about the password.
 
 ### NEW CONTENT
 
-#### Slideshow and Panopto Lectures:
-
 **Slideshow**: [link here](https://docs.google.com/presentation/d/1UYX47tzWS7oBjFIvEH8Qyt6hK4qvLcyQlhpLCX1UeRM/edit?usp=sharing)
 
-<p class="list"><strong>W 3/25</strong>:</p>
-- [Panopto lecture, part 1](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b47cf93-c700-4d87-b161-ab8701504a51)
-- [Panopto lecture, part 2](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0d29943-cb46-4f80-83f2-ab87015b468c)
-
-**F 3/27**: [Zoom lecture](https://drive.google.com/file/d/11DctfTM0GN7I_fLYhmbcDedAv72c91mj/view?usp=sharing)
-
-#### Readings:
+<p class="list"><strong>Video Lectures</strong>:</p>
+- [**W 3/25, Part 1**](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b47cf93-c700-4d87-b161-ab8701504a51)
+- [**W 3/25, Part 2**](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0d29943-cb46-4f80-83f2-ab87015b468c)
+- [**F 3/27**](https://drive.google.com/file/d/11DctfTM0GN7I_fLYhmbcDedAv72c91mj/view?usp=sharing)
 
 <p class="list"><strong>Assignments</strong>:</p>
 - Ormand 195-199 ("Women, Normal and Non-Normative")
