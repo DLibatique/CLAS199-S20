@@ -420,7 +420,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 **Slideshow**: [link here](https://docs.google.com/presentation/d/137DEczf1k47ddf5DgtEdk3I4fJSnVF9qD0jTcgBnmQo/edit?usp=sharing)
 
 <p class="list"><strong>Video lectures</strong>:</p>
-- [M 3/30](#) - link forthcoming
+- [M 3/30](https://drive.google.com/file/d/11W8PeekyiokSXmkX7BA-4VjBP7u5I9fg/view?usp=sharing)
 - [W 4/1](#) - link forthcoming
 - [F 4/3](#) - link forthcoming
 
