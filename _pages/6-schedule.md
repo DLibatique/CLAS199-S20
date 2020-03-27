@@ -417,7 +417,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 [**Quiz #7 (on From Greece to Rome: The Body Female and the Body Politic)**](https://forms.gle/z6bHNtQsrCXomjuV9): M 3/30  
 
-**Slideshow**: [link here](#) - link forthcoming
+**Slideshow**: [link here](https://docs.google.com/presentation/d/137DEczf1k47ddf5DgtEdk3I4fJSnVF9qD0jTcgBnmQo/edit?usp=sharing)
 
 <p class="list"><strong>Video lectures</strong>:</p>
 - [M 3/30](#) - link forthcoming
