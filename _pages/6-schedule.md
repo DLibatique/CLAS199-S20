@@ -422,7 +422,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 <p class="list"><strong>Video lectures</strong>:</p>
 - [M 3/30](https://drive.google.com/file/d/11W8PeekyiokSXmkX7BA-4VjBP7u5I9fg/view?usp=sharing)
 - [W 4/1](https://drive.google.com/file/d/11cr3A4a706AavKCTc8Ue2f_as3NMjDXv/view?usp=sharing)
-- [F 4/3](#) - link forthcoming
+- [F 4/3](https://drive.google.com/file/d/11i33pzcNQ2r3EGacqFP-7QQtLjMmD-xr/view?usp=sharing)
 
 <p class="list"><strong>Assignments</strong>:</p>
 - Ormand 182-201.
