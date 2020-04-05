@@ -442,10 +442,16 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 [**Quiz #8 (on Roman Men and Social Ideals)**](https://forms.gle/HLiG6cTD4oAu2uQU9): M 4/6  
 
-**Slideshow**: [link here](#) - link forthcoming
+**Slideshow**: [link here](https://docs.google.com/presentation/d/1Q2hsivWCelKL_NtqFMIeevQnJg2URInWv1OkrmqLmH4/edit?usp=sharing)
 
 <p class="list"><strong>Video lectures</strong>:</p>
-- [M 4/6](#) - link forthcoming
+- [M 4/6](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?usp=sharing)
+  - [Slide 1 - 0:00](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=0m00s)
+  - [Slide 2 - 6:11](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=6m11s)
+  - [Slide 3 - 8:47](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=8m47s)
+  - [Slide 4 - 11:06](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=11m06s)
+  - [Slide 5 - 19:14](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=19m14s)
+  - [Slide 6 - 28:21](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=28m21s)
 - [W 4/8](#) - link forthcoming
 
 <p class="list"><strong>Assignments</strong>:</p>
