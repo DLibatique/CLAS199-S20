@@ -452,7 +452,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
   - [Slide 4 - 11:06](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=11m06s)
   - [Slide 5 - 19:14](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=19m14s)
   - [Slide 6 - 28:21](https://drive.google.com/file/d/11iVqPbSOb2uNL7kCWZyeDS6z9RXtXQ4z/view?t=28m21s)
-- [W 4/8](https://drive.google.com/file/d/11cr3A4a706AavKCTc8Ue2f_as3NMjDXv/view?t=3m12s) - link forthcoming
+- [W 4/8](#) - link forthcoming
 
 <p class="list"><strong>Assignments</strong>:</p>
 - Ormand 225-246.
