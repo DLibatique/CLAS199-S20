@@ -481,7 +481,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 <p class="list"><strong>Video lectures</strong>:</p>
 - [W 4/15](https://drive.google.com/file/d/11rWdtgizR4piMwlmXwKkEJD7l6OEF4Pk/view?usp=sharing)
-- [F 4/17](#) - link forthcoming
+- [F 4/17](https://drive.google.com/file/d/11soergUnyWpSdqueNcV4sfrJ2AFA1IEl/view?usp=sharing)
 
 <p class="list"><strong>Assignments</strong>:</p>
 - Ormand 202-223.
