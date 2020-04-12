@@ -477,10 +477,10 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 [**Quiz #9 (on Roman Law and Cultural Relativity)**](https://forms.gle/vTFDXpDXcT5krr9E7): W 4/15  
 
-**Slideshow**: [link here](#) - link forthcoming
+**Slideshow**: [link here](https://docs.google.com/presentation/d/14B-emu4Vb8wZdkzS9VKYJYwUrPTMyF4iYcmOEfxT12Q/edit?usp=sharing)
 
 <p class="list"><strong>Video lectures</strong>:</p>
-- [W 4/15](#) - link forthcoming
+- [W 4/15](https://drive.google.com/file/d/11rWdtgizR4piMwlmXwKkEJD7l6OEF4Pk/view?usp=sharing)
 - [F 4/17](#) - link forthcoming
 
 <p class="list"><strong>Assignments</strong>:</p>
