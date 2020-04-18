@@ -499,10 +499,10 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 [**Quiz #10 (on Roman Comedy)**](https://forms.gle/UjpXwTcSnXqGQHxVA): M 4/20  
 
-**Slideshow**: [link here](#) - link forthcoming
+**Slideshow**: [link here](https://docs.google.com/presentation/d/1F9R_TuInwxxPGZRjRMWRoNXglRZ-URU_8qrSwviNNbQ/edit?usp=sharing)
 
 <p class="list"><strong>Video lectures</strong>:</p>
-- [M 4/20](#) - link forthcoming
+- [M 4/20](https://drive.google.com/file/d/11uFzznfzY7ZJpwSiq7rX1NIBoM38yrRS/view?usp=sharing)
 - [F 4/24](#) - link forthcoming
 
 **NB: "Academic Conference" on W 4/22: no lecture for that day**
