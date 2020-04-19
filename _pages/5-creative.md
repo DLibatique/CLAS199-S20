@@ -221,4 +221,16 @@ A grade of satisfactory will be granted for creative and grammatically-sound com
 
 ### <a name="meme">Creative Project 10: Meme or Tiktok Creation</a>
 
-TBD
+This creative project invites you to create memes or Tiktoks that make concepts, ideas, events, figures, or literature from our course accessible in a modern context. Bonus points if you make me laugh. See an example here:
+
+![](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/93539965_2431288006971684_1996626263212556288_n.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=NQtuSEiNZn4AX9sbHvC&_nc_ht=scontent-iad3-1.xx&oh=7e6daf359c1a429514d29f54f0661c66&oe=5EC3B3A6)
+
+The criteria for a grade of satisfactory are as follows:
+1. Create 3-4 memes or Tiktoks (in any combination: 3 memes, 2 memes + 2 Tiktoks, etc.) that reference concepts, ideas, events, people, or literature that we’ve discussed in class or that you've read about in the course readings.
+2. Write a 2-3 sentence paragraph per meme or Tiktok explaining the joke as if I didn’t know anything about Classics.
+3. Compile everything into one document:
+  - For memes, embed the meme image into the document.
+  - For Tiktoks, grab the link (using the Share button and the Copy Link option on the Tiktok itself) and paste it into the document.
+4. Submit the file via the [Upload Portal](https://forms.gle/f8Di83KNNAr2eGeW8).
+
+[Back to top.](#top)
