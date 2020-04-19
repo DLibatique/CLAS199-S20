@@ -503,7 +503,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 <p class="list"><strong>Video lectures</strong>:</p>
 - [M 4/20](https://drive.google.com/file/d/11uFzznfzY7ZJpwSiq7rX1NIBoM38yrRS/view?usp=sharing)
-- [F 4/24](#) - link forthcoming
+- [F 4/24](https://drive.google.com/file/d/1223g0B6FMO9gyedGOdRPUVU9R4oXj8Q_/view?usp=sharing)
 
 **NB: "Academic Conference" on W 4/22: no lecture for that day**
 
