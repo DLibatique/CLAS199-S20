@@ -523,7 +523,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ## Week 13 (4/27, 4/29, 5/1) - Ovid: Proto-Feminist or Extreme Sexist?
 
-[**Quiz #11 (on Catullus and the Elegists)**](#): M 4/27 - link forthcoming  
+[**Quiz #11 (on Catullus and the Elegists)**](https://forms.gle/iCBqbAf3RDoQSZwu7): M 4/27  
 
 **Slideshow**: [link here](#) - link forthcoming
 
