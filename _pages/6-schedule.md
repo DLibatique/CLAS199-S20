@@ -525,10 +525,10 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 [**Quiz #11 (on Catullus and the Elegists)**](https://forms.gle/iCBqbAf3RDoQSZwu7): M 4/27  
 
-**Slideshow**: [link here](#) - link forthcoming
+**Slideshow**: [link here](https://docs.google.com/presentation/d/1coMF2yr2qfyShk-Z5mNGcUiVbbGtHl43K_bVu00WuR8/edit?usp=sharing)
 
 <p class="list"><strong>Video lectures</strong>:</p>
-- [M 4/27](#) - link forthcoming
+- [M 4/27](https://drive.google.com/file/d/12AKh3trpv8K38Md9_qoCfzCGjnNGp1bS/view?usp=sharing)
 - [W 4/29](#) - link forthcoming
 - [F 5/1](#) - link forthcoming
 
