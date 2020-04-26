@@ -529,7 +529,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 <p class="list"><strong>Video lectures</strong>:</p>
 - [M 4/27](https://drive.google.com/file/d/12AKh3trpv8K38Md9_qoCfzCGjnNGp1bS/view?usp=sharing)
-- [W 4/29](#) - link forthcoming
+- [W 4/29](https://drive.google.com/file/d/12SArDBQS9a5v1YnFlVb3MgIlI0uuHclJ/view?usp=sharing)
 - [F 5/1](#) - link forthcoming
 
 <p class="list"><strong>Assignments</strong>:</p>
