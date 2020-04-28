@@ -549,7 +549,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ## Week 14 (5/4) - In Conclusion
 
-[**Quiz #12 (on Ovid: Proto-Feminist or Extreme Sexist?)**](#): M 5/4 - link forthcoming  
+[**Quiz #12 (on Ovid: Proto-Feminist or Extreme Sexist?)**](https://forms.gle/vqQG8eQJRnFYBsxf7): M 5/4  
 
 **Slideshow**: [link here](#) - link forthcoming
 
