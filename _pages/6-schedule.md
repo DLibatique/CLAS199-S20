@@ -530,7 +530,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 <p class="list"><strong>Video lectures</strong>:</p>
 - [M 4/27](https://drive.google.com/file/d/12AKh3trpv8K38Md9_qoCfzCGjnNGp1bS/view?usp=sharing)
 - [W 4/29](https://drive.google.com/file/d/12SArDBQS9a5v1YnFlVb3MgIlI0uuHclJ/view?usp=sharing)
-- [F 5/1](#) - link forthcoming
+- [F 5/1](https://drive.google.com/file/d/12TWjzxd13r7HvGF0NSPQ-jz1o3j-pmv9/view?usp=sharing)
 
 <p class="list"><strong>Assignments</strong>:</p>
 - Ovid *Amores* [1.1](https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535256) and [1.9](https://www.poetryintranslation.com/PITBR/Latin/AmoresBkI.php#anchor_Toc520535264)
