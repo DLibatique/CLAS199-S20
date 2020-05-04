@@ -551,7 +551,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 [**Quiz #12 (on Ovid: Proto-Feminist or Extreme Sexist?)**](https://forms.gle/vqQG8eQJRnFYBsxf7): M 5/4  
 
-**Slideshow**: [link here](#) - link forthcoming
+**Slideshow**: [link here](https://docs.google.com/presentation/d/120Dtd4QAp_CCe7EeCiEea3a7-BKJ5WTJs6jN3JKjAdc/edit?usp=sharing)
 
 <p class="list"><strong>Video lectures</strong>:</p>
 - [M 5/4](#) - link forthcoming
