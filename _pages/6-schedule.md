@@ -554,7 +554,7 @@ Note that all due dates from this point on are suggestions rather than hard and 
 **Slideshow**: [link here](https://docs.google.com/presentation/d/120Dtd4QAp_CCe7EeCiEea3a7-BKJ5WTJs6jN3JKjAdc/edit?usp=sharing)
 
 <p class="list"><strong>Video lectures</strong>:</p>
-- [M 5/4](#) - link forthcoming
+- [M 5/4](https://drive.google.com/file/d/12VgvJGllYvKLIv02NlzqdKf2ei9Cj2dp/view?usp=sharing)
 
 <p class="list"><strong>Assignments</strong>:</p>
 - Ormand 375-382.
