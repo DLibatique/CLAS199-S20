@@ -7,11 +7,15 @@ permalink: /distance
 ## Quiz Links
 
 - [Quiz 7 (From Greece to Rome: The Body Female and the Body Politic)](https://forms.gle/z6bHNtQsrCXomjuV9)
-- [Quiz 8 (Roman Men and Social Ideals)](#) - link forthcoming
-- [Quiz 9 (Roman Law and Cultural Relativity)](#) - link forthcoming
-- [Quiz 10 (Roman Comedy)](#) - link forthcoming
-- [Quiz 11 (Catullus and the Elegists)](#) - link forthcoming
-- [Quiz 12 (Ovid: Proto-Feminist or Extreme Sexist?)](#) - link forthcoming
+- [Quiz 8 (Roman Men and Social Ideals)](https://forms.gle/HLiG6cTD4oAu2uQU9)
+- [Quiz 9 (Roman Law and Cultural Relativity)](https://forms.gle/vTFDXpDXcT5krr9E7)
+- [Quiz 10 (Roman Comedy)](https://forms.gle/UjpXwTcSnXqGQHxVA)
+- [Quiz 11 (Catullus and the Elegists)](https://forms.gle/iCBqbAf3RDoQSZwu7)
+- [Quiz 12 (Ovid: Proto-Feminist or Extreme Sexist?)](https://forms.gle/vqQG8eQJRnFYBsxf7) - link forthcoming
+
+## Final Exam Links
+
+- [Final Exam](https://forms.gle/9kmN9L3D1AHFUxkw5)
 
 ***
 

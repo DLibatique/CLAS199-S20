@@ -570,7 +570,9 @@ Note that all due dates from this point on are suggestions rather than hard and 
 
 ## EXAM PERIOD: 5/7 through 5/13
 
-**Final Exam or Essay HARD DEADLINE**: T 5/12 by 11:59pm.  
+**Final Exam or Essay HARD DEADLINE**: T 5/12 by 11:59pm.
+- [link to Final Exam](https://forms.gle/9kmN9L3D1AHFUxkw5) (see e-mail for password)
+   
 **Creative Project #4 / all Creative Projects HARD DEADLINE**: T 5/12 by 11:59pm.
 
 
