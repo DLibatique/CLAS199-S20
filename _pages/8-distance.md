@@ -15,7 +15,7 @@ permalink: /distance
 
 ## Final Exam Links
 
-- [Final Exam](https://forms.gle/9kmN9L3D1AHFUxkw5)
+- [Final Exam](https://forms.gle/9kmN9L3D1AHFUxkw5) (see e-mail for password)
 
 ***
 
